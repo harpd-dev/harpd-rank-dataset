@@ -2,7 +2,7 @@
   "schema": "https://harpd.com/data/rank-open-data.json",
   "title": "Harpd Rank open dataset — objective product signals",
   "description": "Non-sponsored, machine-readable signals for every approved Harpd Rank product: verified GitHub stars and first-party referral counts. Contains no Rank Points and no paid placement data.",
-  "generated_at": "2026-09-09T04:36:06.055Z",
+  "generated_at": "2026-09-09T04:41:37.376Z",
   "license": "CC BY 4.0",
   "attribution": "Harpd (https://harpd.com). GitHub star counts from the GitHub REST API.",
   "disclosure": "Rank Points are paid promotional placement, not an editorial rating or review. This dataset intentionally excludes Rank Points; the promotional board is published separately at /data/rank.json.",
