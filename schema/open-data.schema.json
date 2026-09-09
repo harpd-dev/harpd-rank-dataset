@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Harpd Rank objective (non-sponsored) metrics",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "profile_url": {
+      "type": "string"
+    },
+    "homepage_url": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "github_url": {
+      "type": "string"
+    },
+    "github_stars": {
+      "type": "integer"
+    },
+    "github_stars_at": {
+      "type": "string"
+    },
+    "harpd_referred_visits_total": {
+      "type": "integer"
+    },
+    "listed_at": {
+      "type": "string"
+    },
+    "verified": {
+      "type": "boolean"
+    },
+    "listing_source": {
+      "type": "string"
+    },
+    "operator_reference": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "category",
+    "description",
+    "harpd_referred_visits_total",
+    "homepage_url",
+    "listed_at",
+    "listing_source",
+    "name",
+    "operator_reference",
+    "profile_url",
+    "slug",
+    "verified"
+  ],
+  "additionalProperties": true
+}

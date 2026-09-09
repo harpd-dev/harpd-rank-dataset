@@ -1,0 +1,90 @@
+id,rank,name,slug,profile_url,category,category_name,rank_points,verified,updated_at
+imgkit-86d32f3e,1,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,125,true,2026-08-28T05:03:03.444Z
+claude,2,Claude,claude,https://harpd.com/rank/claude/,agents,Agents,0,false,2026-08-27T06:14:04.721Z
+perplexity,3,Perplexity,perplexity,https://harpd.com/rank/perplexity/,agents,Agents,0,false,2026-08-27T06:14:34.241Z
+gemini,4,Gemini,gemini,https://harpd.com/rank/gemini/,agents,Agents,0,false,2026-08-27T06:14:37.079Z
+poe,5,Poe,poe,https://harpd.com/rank/poe/,agents,Agents,0,false,2026-08-27T06:14:38.910Z
+langchain,6,LangChain,langchain,https://harpd.com/rank/langchain/,agents,Agents,0,false,2026-08-27T06:14:40.814Z
+llamaindex,7,LlamaIndex,llamaindex,https://harpd.com/rank/llamaindex/,agents,Agents,0,false,2026-08-27T06:26:08.275Z
+crewai,8,CrewAI,crewai,https://harpd.com/rank/crewai/,agents,Agents,0,false,2026-08-27T06:26:10.324Z
+n8n,9,n8n,n8n,https://harpd.com/rank/n8n/,agents,Agents,0,false,2026-08-27T06:26:12.835Z
+cursor,10,Cursor,cursor,https://harpd.com/rank/cursor/,developer,Developer,0,false,2026-08-27T06:26:15.322Z
+github-copilot,11,GitHub Copilot,github-copilot,https://harpd.com/rank/github-copilot/,developer,Developer,0,false,2026-08-27T06:26:17.618Z
+windsurf,12,Windsurf,windsurf,https://harpd.com/rank/windsurf/,developer,Developer,0,false,2026-08-27T06:26:19.551Z
+replit,13,Replit,replit,https://harpd.com/rank/replit/,developer,Developer,0,false,2026-08-27T06:26:21.742Z
+lovable,14,Lovable,lovable,https://harpd.com/rank/lovable/,developer,Developer,0,false,2026-08-27T06:26:23.522Z
+bolt,15,Bolt,bolt,https://harpd.com/rank/bolt/,developer,Developer,0,false,2026-08-27T06:26:25.981Z
+vercel,16,Vercel,vercel,https://harpd.com/rank/vercel/,developer,Developer,0,false,2026-08-27T06:26:27.784Z
+netlify,17,Netlify,netlify,https://harpd.com/rank/netlify/,developer,Developer,0,false,2026-08-27T06:26:30.132Z
+cloudflare,18,Cloudflare,cloudflare,https://harpd.com/rank/cloudflare/,developer,Developer,0,false,2026-08-27T06:26:32.221Z
+supabase,19,Supabase,supabase,https://harpd.com/rank/supabase/,developer,Developer,0,false,2026-08-27T06:26:34.696Z
+firebase,20,Firebase,firebase,https://harpd.com/rank/firebase/,developer,Developer,0,false,2026-08-27T06:26:36.530Z
+posthog,21,PostHog,posthog,https://harpd.com/rank/posthog/,developer,Developer,0,false,2026-08-27T06:26:38.243Z
+sentry,22,Sentry,sentry,https://harpd.com/rank/sentry/,developer,Developer,0,false,2026-08-27T06:26:40.552Z
+openrouter,23,OpenRouter,openrouter,https://harpd.com/rank/openrouter/,developer,Developer,0,false,2026-08-27T06:26:42.868Z
+browserbase,24,Browserbase,browserbase,https://harpd.com/rank/browserbase/,developer,Developer,0,false,2026-08-27T06:26:45.200Z
+semrush,25,Semrush,semrush,https://harpd.com/rank/semrush/,seo,SEO,0,false,2026-08-27T06:26:47.112Z
+ahrefs,26,Ahrefs,ahrefs,https://harpd.com/rank/ahrefs/,seo,SEO,0,false,2026-08-27T06:26:49.034Z
+screaming-frog-seo-spider,27,Screaming Frog SEO Spider,screaming-frog-seo-spider,https://harpd.com/rank/screaming-frog-seo-spider/,seo,SEO,0,false,2026-08-27T06:26:51.394Z
+frase,28,Frase,frase,https://harpd.com/rank/frase/,seo,SEO,0,false,2026-08-27T06:26:53.999Z
+google-search-console,29,Google Search Console,google-search-console,https://harpd.com/rank/google-search-console/,seo,SEO,0,false,2026-08-27T06:26:56.797Z
+notion,30,Notion,notion,https://harpd.com/rank/notion/,productivity,Productivity,0,false,2026-08-27T06:26:59.964Z
+linear,31,Linear,linear,https://harpd.com/rank/linear/,productivity,Productivity,0,false,2026-08-27T06:27:02.588Z
+figma,32,Figma,figma,https://harpd.com/rank/figma/,productivity,Productivity,0,false,2026-08-27T06:27:05.089Z
+zapier,33,Zapier,zapier,https://harpd.com/rank/zapier/,productivity,Productivity,0,false,2026-08-27T06:27:07.372Z
+make,34,Make,make,https://harpd.com/rank/make/,productivity,Productivity,0,false,2026-08-27T06:27:09.897Z
+canva,35,Canva,canva,https://harpd.com/rank/canva/,productivity,Productivity,0,false,2026-08-27T06:27:12.420Z
+midjourney,36,Midjourney,midjourney,https://harpd.com/rank/midjourney/,ai-media,AI Media,0,false,2026-08-27T06:27:14.301Z
+elevenlabs,37,ElevenLabs,elevenlabs,https://harpd.com/rank/elevenlabs/,ai-media,AI Media,0,false,2026-08-27T06:27:16.392Z
+runway,38,Runway,runway,https://harpd.com/rank/runway/,ai-media,AI Media,0,false,2026-08-27T06:27:18.952Z
+descript,39,Descript,descript,https://harpd.com/rank/descript/,ai-media,AI Media,0,false,2026-08-27T06:27:20.805Z
+adobe-firefly,40,Adobe Firefly,adobe-firefly,https://harpd.com/rank/adobe-firefly/,ai-media,AI Media,0,false,2026-08-27T06:27:22.754Z
+see-io,41,see.io,see-io,https://harpd.com/rank/see-io/,agents,Agents,0,false,2026-08-27T06:27:25.989Z
+tutti,42,Tutti,tutti,https://harpd.com/rank/tutti/,marketing,Marketing,0,false,2026-08-27T06:27:29.163Z
+joni,43,JONI,joni,https://harpd.com/rank/joni/,agents,Agents,0,false,2026-08-27T06:27:30.863Z
+outrank,44,Outrank,outrank,https://harpd.com/rank/outrank/,seo,SEO,0,false,2026-08-27T06:27:32.653Z
+orynth,45,Orynth,orynth,https://harpd.com/rank/orynth/,crypto,Crypto,0,false,2026-08-27T06:27:35.155Z
+crowdreply,46,CrowdReply,crowdreply,https://harpd.com/rank/crowdreply/,seo,SEO,0,false,2026-08-27T06:27:36.845Z
+comp-ai,47,Comp AI,comp-ai,https://harpd.com/rank/comp-ai/,security,Security,0,false,2026-08-27T06:27:38.683Z
+zerorank,48,ZeroRank,zerorank,https://harpd.com/rank/zerorank/,seo,SEO,0,false,2026-08-27T06:27:40.528Z
+pecan-ai,49,Pecan AI,pecan-ai,https://harpd.com/rank/pecan-ai/,agents,Agents,0,false,2026-08-27T06:27:42.909Z
+latamhire,50,LATAMHire,latamhire,https://harpd.com/rank/latamhire/,hiring,Hiring,0,false,2026-08-27T06:27:44.641Z
+flopay,51,FloPay,flopay,https://harpd.com/rank/flopay/,business,Business,0,false,2026-08-27T06:27:46.897Z
+modulate,52,Modulate,modulate,https://harpd.com/rank/modulate/,developer,Developer,0,false,2026-08-27T06:27:48.944Z
+context-dev,53,Context.dev,context-dev,https://harpd.com/rank/context-dev/,developer,Developer,0,false,2026-08-27T06:27:51.152Z
+fatjoe,54,fatjoe,fatjoe,https://harpd.com/rank/fatjoe/,seo,SEO,0,false,2026-08-27T06:27:53.184Z
+fuel-log,55,Fuel Log,fuel-log,https://harpd.com/rank/fuel-log/,health,Health,0,false,2026-08-27T06:27:54.968Z
+contentstudio,56,ContentStudio,contentstudio,https://harpd.com/rank/contentstudio/,social,Social,0,false,2026-08-27T06:27:57.008Z
+winning,57,Winning,winning,https://harpd.com/rank/winning/,leaderboards,Leaderboards,0,false,2026-08-27T06:27:59.030Z
+unify,58,Unify,unify,https://harpd.com/rank/unify/,agents,Agents,0,false,2026-08-27T06:28:01.121Z
+otio,59,Otio,otio,https://harpd.com/rank/otio/,education,Education,0,false,2026-08-27T06:28:03.339Z
+mytb-ai,60,myTB.ai,mytb-ai,https://harpd.com/rank/mytb-ai/,business,Business,0,false,2026-08-27T06:28:05.272Z
+fiber,61,Fiber,fiber,https://harpd.com/rank/fiber/,crypto,Crypto,0,false,2026-08-27T06:28:08.385Z
+fangcode,62,FangCode,fangcode,https://harpd.com/rank/fangcode/,agents,Agents,0,false,2026-08-27T06:28:10.834Z
+namerockstar,63,NameRockstar,namerockstar,https://harpd.com/rank/namerockstar/,domains,Domains,0,false,2026-08-27T06:28:13.223Z
+klover,64,Klover,klover,https://harpd.com/rank/klover/,business,Business,0,false,2026-08-27T06:28:15.477Z
+trylle,65,Trylle,trylle,https://harpd.com/rank/trylle/,developer,Developer,0,false,2026-08-27T06:28:17.738Z
+myworkoutlogs,66,MyWorkoutLogs,myworkoutlogs,https://harpd.com/rank/myworkoutlogs/,health,Health,0,false,2026-08-27T06:28:19.827Z
+codus,67,Codus,codus,https://harpd.com/rank/codus/,developer,Developer,0,false,2026-08-27T06:28:21.913Z
+affiliateo,68,Affiliateo,affiliateo,https://harpd.com/rank/affiliateo/,marketing,Marketing,0,false,2026-08-27T06:28:24.290Z
+reactbits,69,ReactBits,reactbits,https://harpd.com/rank/reactbits/,developer,Developer,0,false,2026-08-27T06:28:28.046Z
+peptiprices,70,PeptiPrices,peptiprices,https://harpd.com/rank/peptiprices/,health,Health,0,false,2026-08-27T06:28:30.349Z
+evo-marketing,71,EVO Marketing,evo-marketing,https://harpd.com/rank/evo-marketing/,marketing,Marketing,0,false,2026-08-27T06:28:32.501Z
+ay-automate,72,AY Automate,ay-automate,https://harpd.com/rank/ay-automate/,agencies,Agencies,0,false,2026-08-27T06:28:35.623Z
+launch-club,73,Launch Club,launch-club,https://harpd.com/rank/launch-club/,agencies,Agencies,0,false,2026-08-27T06:28:38.017Z
+prelint,74,Prelint,prelint,https://harpd.com/rank/prelint/,developer,Developer,0,false,2026-08-27T06:28:40.280Z
+neocam,75,NeoCam,neocam,https://harpd.com/rank/neocam/,design,Design,0,false,2026-08-27T06:28:42.133Z
+ranked-ai,76,Ranked AI,ranked-ai,https://harpd.com/rank/ranked-ai/,seo,SEO,0,false,2026-08-27T06:28:44.003Z
+limestone-digital,77,Limestone Digital,limestone-digital,https://harpd.com/rank/limestone-digital/,agencies,Agencies,0,false,2026-08-27T06:28:46.964Z
+overskill,78,OverSkill,overskill,https://harpd.com/rank/overskill/,developer,Developer,0,false,2026-08-27T06:28:48.902Z
+startglobal,79,StartGlobal,startglobal,https://harpd.com/rank/startglobal/,business,Business,0,false,2026-08-27T06:28:51.180Z
+capital-gurus,80,Capital Gurus,capital-gurus,https://harpd.com/rank/capital-gurus/,business,Business,0,false,2026-08-27T06:28:53.207Z
+stealthgpt,81,StealthGPT,stealthgpt,https://harpd.com/rank/stealthgpt/,writing,Writing,0,false,2026-08-27T06:28:55.392Z
+nextbrand,82,NextBrand,nextbrand,https://harpd.com/rank/nextbrand/,domains,Domains,0,false,2026-08-27T06:28:57.673Z
+doomers,83,Doomers,doomers,https://harpd.com/rank/doomers/,social,Social,0,false,2026-08-27T06:29:00.029Z
+capgo,84,Capgo,capgo,https://harpd.com/rank/capgo/,developer,Developer,0,false,2026-08-27T06:29:02.411Z
+venture-labs,85,Venture Labs,venture-labs,https://harpd.com/rank/venture-labs/,agencies,Agencies,0,false,2026-08-27T06:29:04.406Z
+olvy,86,Olvy,olvy,https://harpd.com/rank/olvy/,developer,Developer,0,false,2026-08-27T06:29:06.372Z
+peptidebenchmark,87,PeptideBenchmark,peptidebenchmark,https://harpd.com/rank/peptidebenchmark/,health,Health,0,false,2026-08-27T06:29:08.505Z
+turingo,88,Turingo,turingo,https://harpd.com/rank/turingo/,productivity,Productivity,0,false,2026-08-27T06:29:11.239Z
+four,89,Four,four,https://harpd.com/rank/four/,ecommerce,Ecommerce,0,false,2026-08-27T06:29:13.228Z

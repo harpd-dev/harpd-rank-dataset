@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-09T04:36:06.161Z",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "methodology": "https://harpd.com/rank/methodology/",
+  "envelope": {
+    "schemaVersion": "Version of the dataset schema. Field names are stable; breaking changes bump the version.",
+    "generatedAt": "ISO-8601 timestamp of when the response was serialized.",
+    "lastUpdated": "ISO-8601 timestamp of the most recent record-level data change in this collection. Moves only when a record actually changes, never on rebuild alone.",
+    "source": "Always \"Harpd Rank\".",
+    "methodology": "URL of the Harpd Rank methodology page.",
+    "license": "The dataset is published under CC BY 4.0.",
+    "count": "Number of records in the collection."
+  },
+  "excluded": "Never included: user accounts or contact details, billing or processor identifiers, credential or secret material, internal review notes, private account fields, or any unapproved/hidden listing.",
+  "endpoints": [
+    {
+      "endpoint": "rank.json",
+      "record": "rank record",
+      "fields": {
+        "id": "Stable record identifier. Equal to the slug.",
+        "name": "Product display name.",
+        "slug": "Stable URL slug used in profile URLs.",
+        "url": "Canonical Harpd product profile URL.",
+        "category": "Harpd Rank category slug.",
+        "categoryName": "Display name of the category.",
+        "rank": "Current position on the overall board.",
+        "rankPoints": "Current Harpd Rank Points (1 completed Credit = 1 permanent Rank Point).",
+        "verified": "True when Harpd has verified the product listing.",
+        "updatedAt": "Last public update timestamp for the record."
+      }
+    },
+    {
+      "endpoint": "products.json",
+      "record": "rank record + profile fields",
+      "fields": {
+        "website": "The maker's own public website.",
+        "description": "The maker-provided public product description.",
+        "productType": "Public product type label, when provided."
+      }
+    },
+    {
+      "endpoint": "categories.json",
+      "record": "category record",
+      "fields": {
+        "slug": "Category slug.",
+        "name": "Category display name.",
+        "description": "Public category description.",
+        "url": "Canonical category board URL.",
+        "productCount": "Number of approved products in the category.",
+        "rankedProductCount": "Products in the category holding at least 1 Rank Point.",
+        "totalRankPoints": "Sum of Rank Points held by products in the category.",
+        "state": "\"EMPTY\" (no approved products), \"LISTED_NO_RP\" (products listed, none holding Rank Points) or \"ACTIVE\" (at least one Rank Point held). Distinguishes an empty board from a board with only free listings.",
+        "topRankOpen": "True while no product holds Rank Points, i.e. the #1 promotional position is unclaimed.",
+        "createdAt": "Earliest approval date observed on the board. Null for empty boards — not backfilled.",
+        "updatedAt": "Latest listing change observed on the board. Null for empty boards.",
+        "categoryBoards": "Envelope field: number of category boards Harpd operates.",
+        "categoriesWithProducts": "Envelope field: boards that currently hold at least one approved product. Always <= categoryBoards."
+      }
+    },
+    {
+      "endpoint": "rank-history.json",
+      "record": "history period record",
+      "fields": {
+        "periodType": "\"monthly\" or \"weekly\".",
+        "periodKey": "Period identifier (YYYY-MM or YYYY-Www).",
+        "startsAt": "Period start (ISO-8601).",
+        "endsAt": "Period end (ISO-8601).",
+        "productCount": "Products recorded in the closed-period snapshot.",
+        "url": "Canonical Harpd history page URL."
+      }
+    },
+    {
+      "endpoint": "rank.csv",
+      "record": "rank record (tabular)",
+      "fields": {
+        "columns": "id,rank,name,slug,profile_url,category,category_name,rank_points,verified,updated_at"
+      }
+    },
+    {
+      "endpoint": "top-products.json",
+      "record": "rank record + profile fields + citation links",
+      "fields": {
+        "movement": "Human-readable movement label versus the previous period, when the board records one.",
+        "previousRank": "Position in the previous period, when known.",
+        "alternativesUrl": "Canonical Harpd alternatives page for this product.",
+        "scope": "Envelope field: always \"overall-top-100\" — the endpoint is capped at the public Top 100."
+      }
+    },
+    {
+      "endpoint": "market-index.json",
+      "record": "category aggregate record",
+      "fields": {
+        "category": "Harpd Rank category slug.",
+        "categoryName": "Display name of the category.",
+        "productCount": "Approved products in the category.",
+        "totalRankPoints": "Envelope field: Rank Points across the whole board.",
+        "productShare": "Category share of all listed products, in percent (one decimal).",
+        "pointsShare": "Category share of all Rank Points, in percent (one decimal).",
+        "topProduct": "Current category leader: name, slug, profile URL and Rank Points.",
+        "boardUrl": "Canonical live category board URL.",
+        "totalProducts": "Envelope field: products across the whole board.",
+        "categoryCount": "Envelope field: categories that currently hold at least one product."
+      }
+    },
+    {
+      "endpoint": "answers.json",
+      "record": "answer page record",
+      "fields": {
+        "slug": "Answer page slug.",
+        "question": "The question the page answers (its H1).",
+        "url": "Canonical answer page URL.",
+        "intent": "\"best\" (live-board ranking) or \"concept\" (authored explainer).",
+        "bestBoardUrl": "Best-intent only: the /best/{slug}/ board the answer is built from.",
+        "summary": "Concept-intent only: the authored direct answer text."
+      }
+    },
+    {
+      "endpoint": "comparisons.json",
+      "record": "comparison page record",
+      "fields": {
+        "slug": "Comparison slug (alphabetically ordered pair, e.g. a-vs-b).",
+        "url": "Canonical /compare/ page URL.",
+        "category": "Shared board category of both subjects.",
+        "left": "First subject: slug, name, profile URL, category, rank and Rank Points.",
+        "right": "Second subject (same shape as left).",
+        "updatedAt": "Most recent record-level update across both subjects."
+      }
+    },
+    {
+      "endpoint": "alternatives.json",
+      "record": "alternatives page record",
+      "fields": {
+        "slug": "Subject product slug.",
+        "name": "Subject product display name.",
+        "url": "Canonical subject profile URL.",
+        "category": "Subject board category.",
+        "rank": "Subject position on the overall board.",
+        "rankPoints": "Subject Harpd Rank Points.",
+        "alternativesCount": "Number of same-category alternatives listed.",
+        "alternatives": "Same-category peers in Harpd Rank order: slug, name, profile URL, rank and Rank Points."
+      }
+    },
+    {
+      "endpoint": "research.json",
+      "record": "published research report record",
+      "fields": {
+        "family": "Research family slug (ai-tools-index, ai-market-index, …).",
+        "familyTitle": "Research family display title.",
+        "monthKey": "Closed UTC month the report covers (YYYY-MM).",
+        "url": "Canonical research report URL.",
+        "listingCount": "Ranked products the report covers."
+      }
+    }
+  ]
+}

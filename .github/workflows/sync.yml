@@ -1,0 +1,59 @@
+# Sync the Harpd Rank open dataset from harpd.com into this repository.
+#
+# Weekly re-sync + integrity check on every push and PR. The sync script aborts
+# rather than publishing a degraded or empty snapshot, so an automated commit
+# is safe to merge without a human reading the diff.
+
+name: sync
+
+on:
+  schedule:
+    # Mondays 03:17 UTC — after the UTC month rollover, before the JST workday.
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harpd-rank-dataset-sync
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate committed files
+        run: node scripts/sync.mjs --check
+
+  sync:
+    needs: check
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fetch latest dataset
+        run: node scripts/sync.mjs
+      - name: Re-validate
+        run: node scripts/sync.mjs --check
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No data changes."
+            exit 0
+          fi
+          git add -A
+          git commit -m "data: sync $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

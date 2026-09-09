@@ -6,3 +6,24 @@ Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
 You are free to share and adapt the dataset for any purpose, including commercially,
 provided you give appropriate credit to Harpd (https://harpd.com/), provide a link to the
 license, and indicate if changes were made.
+
+--------------------------------------------------------------------------------
+Scope of this license
+--------------------------------------------------------------------------------
+
+DATA (everything except the `scripts/` directory) is licensed under CC BY 4.0.
+Please also preserve the Rank Points disclaimer wherever Rank Points are quoted:
+
+    "Rank Points measure promotional activity, not product quality."
+    — Harpd Rank Public Dataset, https://harpd.com/data/ (CC BY 4.0)
+
+Attribution example:
+
+    Harpd Rank Public Dataset, <period> snapshot, licensed CC BY 4.0
+    https://github.com/harpd-dev/harpd-rank-dataset
+
+SCRIPTS (`scripts/sync.mjs`) are licensed under the MIT License.
+
+The dataset is a factual compilation of publicly listed products. Individual
+product names, logos and trademarks belong to their respective owners and are
+not covered by this license.

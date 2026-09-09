@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-09T04:36:06.144Z",
+  "source": "Harpd Rank",
+  "methodologyUrl": "https://harpd.com/rank/methodology/",
+  "rulesUrl": "https://harpd.com/rank/rules/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "scope": "Public product leaderboard on harpd.com. The dataset describes Harpd Rank participation only and does not represent the entire product market.",
+  "rankPoints": {
+    "rule": "One completed Harpd Credit spend on Rank creates one permanent Rank Point.",
+    "permanence": "Overall Rank Points never reset. Monthly and Weekly boards aggregate Rank Points earned inside the UTC period; closed periods become immutable snapshots.",
+    "disclosure": "Rank Points are promotional placement, not an editorial recommendation. Paying for placement does not equal product quality."
+  },
+  "boards": {
+    "overall": "Lifetime leaderboard ordered by all completed Rank Points.",
+    "monthly": "UTC calendar-month leaderboard.",
+    "weekly": "UTC Monday–Sunday leaderboard."
+  },
+  "entry": {
+    "freeListing": "Every approved product enters Overall Rank for free at 0 Rank Points.",
+    "verification": "Promotional Rank spending requires a verified maker claim. Verification is not an endorsement.",
+    "referenceProducts": "Harpd-operated and unclaimed editorial reference listings are excluded from Maker Rank."
+  },
+  "trending": "Trending is organic and independent of Rank Points: recent unique profile activity, outbound clicks and saves in a rolling 7-day window."
+}

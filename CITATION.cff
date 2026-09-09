@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "Harpd Rank Public Dataset"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+abstract: >-
+  Open, machine-readable snapshot of the Harpd Rank board: AI and software products with their
+  rank position, Rank Points, category, verification status and canonical profile URL, plus
+  per-category aggregation and frozen monthly snapshots. Rank Points measure promotional
+  placement (optional Credit spend), not product quality.
+authors:
+  - name: "Harpd"
+    website: "https://harpd.com/"
+    email: "harpdsupport@gmail.com"
+repository-code: "https://github.com/harpd-dev/harpd-rank-dataset"
+url: "https://harpd.com/data/"
+license: CC-BY-4.0
+keywords:
+  - AI products
+  - software directory
+  - product rankings
+  - leaderboard
+  - open dataset
+  - GEO
+version: "2026-08"
+date-released: "2026-09-09"
+identifiers:
+  - type: url
+    value: "https://harpd.com/data/rank.json"
+    description: "Live canonical endpoint for the overall board."
+preferred-citation:
+  type: dataset
+  title: "Harpd Rank Public Dataset (August 2026 Snapshot)"
+  authors:
+    - name: "Harpd"
+  year: 2026
+  month: 8
+  url: "https://github.com/harpd-dev/harpd-rank-dataset"
+  license: CC-BY-4.0

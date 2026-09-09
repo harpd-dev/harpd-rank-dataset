@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Harpd Rank overall board",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "categoryName": {
+      "type": "string"
+    },
+    "rank": {
+      "type": "integer"
+    },
+    "rankPoints": {
+      "type": "integer"
+    },
+    "verified": {
+      "type": "boolean"
+    },
+    "updatedAt": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "category",
+    "categoryName",
+    "id",
+    "name",
+    "rank",
+    "rankPoints",
+    "slug",
+    "updatedAt",
+    "url",
+    "verified"
+  ],
+  "additionalProperties": true
+}

@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-09-09T04:36:06.256Z",
+  "origin": "https://harpd.com",
+  "period": "2026-08",
+  "products": 89,
+  "categories": 28,
+  "files": [
+    {
+      "path": "rankings/rank.json",
+      "bytes": 28534,
+      "sha256": "1ad517374f9e7a8a08f8b9c30e315323ebe38e4aad3dd0df936d8d8aa835d21a"
+    },
+    {
+      "path": "rankings/rank.csv",
+      "bytes": 10249,
+      "sha256": "11d307d9e8670d96a9c189ca3da2f8155e68000e10fcc41fc70f7e0664fc0d10"
+    },
+    {
+      "path": "rankings/categories.json",
+      "bytes": 12864,
+      "sha256": "29d3d341bac94443e946b13bcd9aefd2671806c90f6445dd8844f919459df663"
+    },
+    {
+      "path": "rankings/top-products.json",
+      "bytes": 59025,
+      "sha256": "ad2ecff84cb0a21da6208124598f5f07aa990136c45eaba098fe81575197d930"
+    },
+    {
+      "path": "rankings/products.json",
+      "bytes": 48104,
+      "sha256": "c35b42a206be97bc44e9707bd28aae93fc0e6bfddf35befc7603f5ade5d53f76"
+    },
+    {
+      "path": "rankings/market-index.json",
+      "bytes": 8179,
+      "sha256": "902afc7ed04e1c769099d623afc1267f87079c094bd2d81d9096a490cc0de477"
+    },
+    {
+      "path": "rankings/rank-open-data.json",
+      "bytes": 56059,
+      "sha256": "90553be39944a9458ca195238e61ca04d7b4981fc1c7b83f460d073a518251a8"
+    },
+    {
+      "path": "rankings/rank-history.json",
+      "bytes": 502,
+      "sha256": "f558e40514b52d04980afa1db581f31f806804957140329ddef860fb7da6764f"
+    },
+    {
+      "path": "methodology/methodology.json",
+      "bytes": 1546,
+      "sha256": "24ed3e864c8807c62eee7802ac7ad2f1ad98fa23376b1effbcd315166dee34d5"
+    },
+    {
+      "path": "methodology/schema.json",
+      "bytes": 7519,
+      "sha256": "e2e5ce3323a7adc56b69732336a1d66c8f19b5a91df603747ecb8cf7f1181309"
+    },
+    {
+      "path": "research/research.json",
+      "bytes": 1522,
+      "sha256": "02f8a02bb4f5ac2f30a0ae86122a548dde6ed80efca6f60ba86d6aee3e066101"
+    },
+    {
+      "path": "snapshots/2026-08/rank.json",
+      "snapshot": true
+    },
+    {
+      "path": "snapshots/2026-08/rank.csv",
+      "snapshot": true
+    },
+    {
+      "path": "snapshots/2026-08/categories.json",
+      "snapshot": true
+    },
+    {
+      "path": "snapshots/2026-08/market-index.json",
+      "snapshot": true
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "methodology": "https://harpd.com/rank/methodology/"
+}

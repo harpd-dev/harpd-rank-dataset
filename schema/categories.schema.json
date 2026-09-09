@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Harpd Rank category boards",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "productCount": {
+      "type": "integer"
+    },
+    "rankedProductCount": {
+      "type": "integer"
+    },
+    "totalRankPoints": {
+      "type": "integer"
+    },
+    "state": {
+      "type": "string"
+    },
+    "topRankOpen": {
+      "type": "boolean"
+    },
+    "createdAt": {
+      "type": "string"
+    },
+    "updatedAt": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "description",
+    "name",
+    "productCount",
+    "rankedProductCount",
+    "slug",
+    "state",
+    "topRankOpen",
+    "totalRankPoints",
+    "url"
+  ],
+  "additionalProperties": true
+}
