@@ -1,92 +1,92 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T04:41:37.199Z",
+  "generatedAt": "2026-09-14T08:56:21.378Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
-  "categoriesWithProducts": 19,
-  "totalProducts": 89,
-  "lastUpdated": "2026-08-28T05:03:03.444Z",
+  "categoriesWithProducts": 21,
+  "totalProducts": 143,
+  "lastUpdated": "2026-09-09T07:06:40.831Z",
   "categories": [
     {
       "slug": "seo",
       "name": "SEO",
       "description": "Discover products for search visibility, technical SEO, content optimization and answer-engine discovery.",
       "url": "https://harpd.com/rank/category/seo/",
-      "productCount": 10,
+      "productCount": 11,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-08-27T06:28:44.003Z"
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
       "slug": "agents",
       "name": "Agents",
       "description": "Explore agent platforms, autonomous workflows, orchestration tools and practical AI agent products.",
       "url": "https://harpd.com/rank/category/agents/",
-      "productCount": 13,
+      "productCount": 19,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-08-27T06:28:10.834Z"
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
       "slug": "ai-media",
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 6,
+      "productCount": 9,
       "rankedProductCount": 1,
-      "totalRankPoints": 125,
+      "totalRankPoints": 133,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-08-28T05:03:03.444Z"
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
       "slug": "marketing",
       "name": "Marketing",
       "description": "Explore products for campaigns, growth, analytics, attribution and customer communication.",
       "url": "https://harpd.com/rank/category/marketing/",
-      "productCount": 3,
+      "productCount": 5,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-08-27T06:28:32.501Z"
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
       "slug": "developer",
       "name": "Developer",
       "description": "Discover APIs, infrastructure, testing and productivity tools built for software teams.",
       "url": "https://harpd.com/rank/category/developer/",
-      "productCount": 24,
+      "productCount": 48,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-08-27T06:29:06.372Z"
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
       "slug": "productivity",
       "name": "Productivity",
       "description": "Explore focused products that help people organize, automate and finish work.",
       "url": "https://harpd.com/rank/category/productivity/",
-      "productCount": 7,
+      "productCount": 9,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-08-27T06:29:11.239Z"
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
       "slug": "people",
@@ -158,13 +158,13 @@
       "name": "Business",
       "description": "Discover operations, finance, legal and admin products that run the back office.",
       "url": "https://harpd.com/rank/category/business/",
-      "productCount": 5,
+      "productCount": 6,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-08-27T06:28:53.207Z"
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
       "slug": "games",
@@ -262,13 +262,13 @@
       "name": "Crypto",
       "description": "Discover wallets, trading, on-chain analytics and web3 infrastructure products.",
       "url": "https://harpd.com/rank/category/crypto/",
-      "productCount": 2,
+      "productCount": 3,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-08-27T06:28:08.385Z"
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
       "slug": "agencies",
@@ -301,13 +301,13 @@
       "name": "Travel",
       "description": "Explore booking, itinerary, mapping and travel-planning products.",
       "url": "https://harpd.com/rank/category/travel/",
-      "productCount": 0,
+      "productCount": 1,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
-      "state": "EMPTY",
+      "state": "LISTED_NO_RP",
       "topRankOpen": true,
-      "createdAt": null,
-      "updatedAt": null
+      "createdAt": "2026-09-09T07:06:40.831Z",
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     },
     {
       "slug": "news",
@@ -366,13 +366,13 @@
       "name": "Other",
       "description": "Explore the products that do not yet fit a defined Harpd category.",
       "url": "https://harpd.com/rank/category/other/",
-      "productCount": 0,
+      "productCount": 13,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
-      "state": "EMPTY",
+      "state": "LISTED_NO_RP",
       "topRankOpen": true,
-      "createdAt": null,
-      "updatedAt": null
+      "createdAt": "2026-09-09T07:06:40.831Z",
+      "updatedAt": "2026-09-09T07:06:40.831Z"
     }
   ]
 }

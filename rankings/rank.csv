@@ -1,5 +1,5 @@
 id,rank,name,slug,profile_url,category,category_name,rank_points,verified,updated_at
-imgkit-86d32f3e,1,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,125,true,2026-08-28T05:03:03.444Z
+imgkit-86d32f3e,1,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,133,true,2026-08-28T05:03:03.444Z
 claude,2,Claude,claude,https://harpd.com/rank/claude/,agents,Agents,0,false,2026-08-27T06:14:04.721Z
 perplexity,3,Perplexity,perplexity,https://harpd.com/rank/perplexity/,agents,Agents,0,false,2026-08-27T06:14:34.241Z
 gemini,4,Gemini,gemini,https://harpd.com/rank/gemini/,agents,Agents,0,false,2026-08-27T06:14:37.079Z
@@ -88,3 +88,57 @@ olvy,86,Olvy,olvy,https://harpd.com/rank/olvy/,developer,Developer,0,false,2026-
 peptidebenchmark,87,PeptideBenchmark,peptidebenchmark,https://harpd.com/rank/peptidebenchmark/,health,Health,0,false,2026-08-27T06:29:08.505Z
 turingo,88,Turingo,turingo,https://harpd.com/rank/turingo/,productivity,Productivity,0,false,2026-08-27T06:29:11.239Z
 four,89,Four,four,https://harpd.com/rank/four/,ecommerce,Ecommerce,0,false,2026-08-27T06:29:13.228Z
+armadai,90,Armadai,armadai,https://harpd.com/rank/armadai/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+bindqr,91,BindQR,bindqr,https://harpd.com/rank/bindqr/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+blogged,92,Blogged,blogged,https://harpd.com/rank/blogged/,seo,SEO,0,false,2026-09-09T07:06:40.831Z
+buildai-space,93,BuildAI.Space,buildai-space,https://harpd.com/rank/buildai-space/,other,Other,0,false,2026-09-09T07:06:40.831Z
+carillon,94,Carillon,carillon,https://harpd.com/rank/carillon/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+codeprepped,95,Codeprepped,codeprepped,https://harpd.com/rank/codeprepped/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+converterer,96,Converterer,converterer,https://harpd.com/rank/converterer/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+crawlraven,97,CrawlRaven,crawlraven,https://harpd.com/rank/crawlraven/,other,Other,0,false,2026-09-09T07:06:40.831Z
+crew-tower,98,Crew Tower,crew-tower,https://harpd.com/rank/crew-tower/,agents,Agents,0,false,2026-09-09T07:06:40.831Z
+demand-discovery-ai,99,Demand Discovery AI™,demand-discovery-ai,https://harpd.com/rank/demand-discovery-ai/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+ding-dong,100,Ding Dong,ding-dong,https://harpd.com/rank/ding-dong/,other,Other,0,false,2026-09-09T07:06:40.831Z
+featul,101,Featul,featul,https://harpd.com/rank/featul/,other,Other,0,false,2026-09-09T07:06:40.831Z
+feedfast,102,FeedFast,feedfast,https://harpd.com/rank/feedfast/,productivity,Productivity,0,false,2026-09-09T07:06:40.831Z
+founderstack,103,FounderStack,founderstack,https://harpd.com/rank/founderstack/,business,Business,0,false,2026-09-09T07:06:40.831Z
+hey-design-ai,104,Hey Design AI,hey-design-ai,https://harpd.com/rank/hey-design-ai/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+hold-my-lid,105,Hold My Lid,hold-my-lid,https://harpd.com/rank/hold-my-lid/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+html-css-to-image-api,106,HTML/CSS to Image API,html-css-to-image-api,https://harpd.com/rank/html-css-to-image-api/,ai-media,AI Media,0,false,2026-09-09T07:06:40.831Z
+huint,107,Huint,huint,https://harpd.com/rank/huint/,agents,Agents,0,false,2026-09-09T07:06:40.831Z
+invofox,108,Invofox,invofox,https://harpd.com/rank/invofox/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+linkedgrow,109,LinkedGrow,linkedgrow,https://harpd.com/rank/linkedgrow/,agents,Agents,0,false,2026-09-09T07:06:40.831Z
+lowisa,110,LoWisa,lowisa,https://harpd.com/rank/lowisa/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+lunaris,111,Lunaris,lunaris,https://harpd.com/rank/lunaris/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+maileroo,112,Maileroo,maileroo,https://harpd.com/rank/maileroo/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+metrician,113,Metrician,metrician,https://harpd.com/rank/metrician/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+nanopage,114,Nanopage,nanopage,https://harpd.com/rank/nanopage/,other,Other,0,false,2026-09-09T07:06:40.831Z
+native-templates,115,Native Templates,native-templates,https://harpd.com/rank/native-templates/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+outlierkit,116,OutlierKit,outlierkit,https://harpd.com/rank/outlierkit/,other,Other,0,false,2026-09-09T07:06:40.831Z
+peppyhop,117,Peppyhop,peppyhop,https://harpd.com/rank/peppyhop/,other,Other,0,false,2026-09-09T07:06:40.831Z
+postwell,118,PostWell,postwell,https://harpd.com/rank/postwell/,other,Other,0,false,2026-09-09T07:06:40.831Z
+pounce,119,Pounce,pounce,https://harpd.com/rank/pounce/,other,Other,0,false,2026-09-09T07:06:40.831Z
+pour,120,Pour,pour,https://harpd.com/rank/pour/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+prwiz,121,PRWiz,prwiz,https://harpd.com/rank/prwiz/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+pump,122,Pump,pump,https://harpd.com/rank/pump/,crypto,Crypto,0,false,2026-09-09T07:06:40.831Z
+qname-ai,123,QName AI,qname-ai,https://harpd.com/rank/qname-ai/,ai-media,AI Media,0,false,2026-09-09T07:06:40.831Z
+reelrun,124,ReelRun,reelrun,https://harpd.com/rank/reelrun/,other,Other,0,false,2026-09-09T07:06:40.831Z
+septonum,125,Septonum,septonum,https://harpd.com/rank/septonum/,other,Other,0,false,2026-09-09T07:06:40.831Z
+sequo,126,Sequo,sequo,https://harpd.com/rank/sequo/,agents,Agents,0,false,2026-09-09T07:06:40.831Z
+spotpixels,127,SpotPixels,spotpixels,https://harpd.com/rank/spotpixels/,other,Other,0,false,2026-09-09T07:06:40.831Z
+sshly,128,Sshly,sshly,https://harpd.com/rank/sshly/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+staffingleads,129,StaffingLeads,staffingleads,https://harpd.com/rank/staffingleads/,marketing,Marketing,0,false,2026-09-09T07:06:40.831Z
+stonkjournal,130,StonkJournal,stonkjournal,https://harpd.com/rank/stonkjournal/,marketing,Marketing,0,false,2026-09-09T07:06:40.831Z
+summonai-kit,131,SummonAI Kit,summonai-kit,https://harpd.com/rank/summonai-kit/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+supastarter,132,Supastarter,supastarter,https://harpd.com/rank/supastarter/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+superscribe,133,Superscribe,superscribe,https://harpd.com/rank/superscribe/,productivity,Productivity,0,false,2026-09-09T07:06:40.831Z
+swiftlist,134,SwiftList,swiftlist,https://harpd.com/rank/swiftlist/,ai-media,AI Media,0,false,2026-09-09T07:06:40.831Z
+textbee,135,Textbee,textbee,https://harpd.com/rank/textbee/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+troobly,136,Troobly,troobly,https://harpd.com/rank/troobly/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+uptimepage,137,Uptimepage,uptimepage,https://harpd.com/rank/uptimepage/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+utilitykit,138,UtilityKit,utilitykit,https://harpd.com/rank/utilitykit/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+v3code,139,V3Code,v3code,https://harpd.com/rank/v3code/,agents,Agents,0,false,2026-09-09T07:06:40.831Z
+verifysignal,140,VerifySignal,verifysignal,https://harpd.com/rank/verifysignal/,developer,Developer,0,false,2026-09-09T07:06:40.831Z
+voibe,141,Voibe,voibe,https://harpd.com/rank/voibe/,other,Other,0,false,2026-09-09T07:06:40.831Z
+wento,142,Wento,wento,https://harpd.com/rank/wento/,travel,Travel,0,false,2026-09-09T07:06:40.831Z
+whisperchat,143,Whisperchat,whisperchat,https://harpd.com/rank/whisperchat/,agents,Agents,0,false,2026-09-09T07:06:40.831Z
