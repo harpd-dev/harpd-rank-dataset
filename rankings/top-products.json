@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-14T08:56:21.437Z",
+  "generatedAt": "2026-09-16T10:42:40.179Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -25,14 +25,14 @@
       "category": "ai-media",
       "categoryName": "AI Media",
       "rank": 1,
-      "rankPoints": 133,
+      "rankPoints": 233,
       "verified": true,
       "updatedAt": "2026-08-28T05:03:03.444Z",
       "website": "https://imgkitapp.com/",
       "description": "ImgKit is an online personalized digital photo gift maker that turns memorable photos into polished, framed digital keepsakes paired with custom messages.",
       "productType": "Design platform",
-      "movement": "—",
-      "previousRank": 1,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/imgkit-86d32f3e/"
     },
     {
@@ -49,8 +49,8 @@
       "website": "https://claude.ai/",
       "description": "An AI assistant for working with text, code, documents, and other information.",
       "productType": "AI assistant",
-      "movement": "—",
-      "previousRank": 2,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/claude/"
     },
     {
@@ -67,8 +67,8 @@
       "website": "https://perplexity.ai/",
       "description": "An AI answer engine that searches the web and presents responses with links to sources.",
       "productType": "Answer engine",
-      "movement": "—",
-      "previousRank": 3,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/perplexity/"
     },
     {
@@ -85,8 +85,8 @@
       "website": "https://gemini.google.com/",
       "description": "Google’s AI assistant for working with text, images, files, and connected Google services.",
       "productType": "AI assistant",
-      "movement": "—",
-      "previousRank": 4,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/gemini/"
     },
     {
@@ -103,8 +103,8 @@
       "website": "https://poe.com/",
       "description": "A platform for accessing and creating conversational AI bots.",
       "productType": "AI platform",
-      "movement": "—",
-      "previousRank": 5,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/poe/"
     },
     {
@@ -121,8 +121,8 @@
       "website": "https://langchain.com/",
       "description": "A framework and platform for building applications and agents powered by language models.",
       "productType": "Developer framework",
-      "movement": "—",
-      "previousRank": 6,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/langchain/"
     },
     {
@@ -139,8 +139,8 @@
       "website": "https://llamaindex.ai/",
       "description": "A framework for building language-model applications that use private or domain-specific data.",
       "productType": "Developer framework",
-      "movement": "—",
-      "previousRank": 7,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/llamaindex/"
     },
     {
@@ -157,8 +157,8 @@
       "website": "https://crewai.com/",
       "description": "A framework and platform for building workflows made up of collaborating AI agents.",
       "productType": "Agent framework",
-      "movement": "—",
-      "previousRank": 8,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/crewai/"
     },
     {
@@ -175,8 +175,8 @@
       "website": "https://n8n.io/",
       "description": "A workflow automation platform for connecting applications, APIs, and AI components.",
       "productType": "Automation platform",
-      "movement": "—",
-      "previousRank": 9,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/n8n/"
     },
     {
@@ -193,8 +193,8 @@
       "website": "https://cursor.com/",
       "description": "A code editor with AI-assisted code generation, editing, and codebase questions.",
       "productType": "Code editor",
-      "movement": "—",
-      "previousRank": 10,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/cursor/"
     },
     {
@@ -211,8 +211,8 @@
       "website": "https://github.com/features/copilot",
       "description": "An AI coding assistant available across GitHub and supported development environments.",
       "productType": "Coding assistant",
-      "movement": "—",
-      "previousRank": 11,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/github-copilot/"
     },
     {
@@ -229,8 +229,8 @@
       "website": "https://windsurf.com/",
       "description": "An AI-assisted development environment for writing, navigating, and changing code.",
       "productType": "Code editor",
-      "movement": "—",
-      "previousRank": 12,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/windsurf/"
     },
     {
@@ -247,8 +247,8 @@
       "website": "https://replit.com/",
       "description": "A browser-based platform for building, running, and deploying software.",
       "productType": "Development platform",
-      "movement": "—",
-      "previousRank": 13,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/replit/"
     },
     {
@@ -265,8 +265,8 @@
       "website": "https://lovable.dev/",
       "description": "A web application builder that turns natural-language instructions into editable applications.",
       "productType": "Application builder",
-      "movement": "—",
-      "previousRank": 14,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/lovable/"
     },
     {
@@ -283,8 +283,8 @@
       "website": "https://bolt.new/",
       "description": "A browser-based workspace for creating and running web applications with AI assistance.",
       "productType": "Application builder",
-      "movement": "—",
-      "previousRank": 15,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/bolt/"
     },
     {
@@ -301,8 +301,8 @@
       "website": "https://vercel.com/",
       "description": "A cloud platform for building, deploying, and hosting web applications.",
       "productType": "Cloud platform",
-      "movement": "—",
-      "previousRank": 16,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/vercel/"
     },
     {
@@ -319,8 +319,8 @@
       "website": "https://netlify.com/",
       "description": "A platform for building, deploying, and operating websites and web applications.",
       "productType": "Cloud platform",
-      "movement": "—",
-      "previousRank": 17,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/netlify/"
     },
     {
@@ -337,8 +337,8 @@
       "website": "https://cloudflare.com/",
       "description": "A cloud platform offering networking, security, application, and developer services.",
       "productType": "Cloud platform",
-      "movement": "—",
-      "previousRank": 18,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/cloudflare/"
     },
     {
@@ -355,8 +355,8 @@
       "website": "https://supabase.com/",
       "description": "A backend platform with Postgres databases, authentication, storage, and application services.",
       "productType": "Backend platform",
-      "movement": "—",
-      "previousRank": 19,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/supabase/"
     },
     {
@@ -373,8 +373,8 @@
       "website": "https://firebase.google.com/",
       "description": "Google’s platform of services for building, releasing, and operating applications.",
       "productType": "Development platform",
-      "movement": "—",
-      "previousRank": 20,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/firebase/"
     },
     {
@@ -391,8 +391,8 @@
       "website": "https://posthog.com/",
       "description": "A product analytics platform with tools for analytics, feature flags, experiments, and user research.",
       "productType": "Product platform",
-      "movement": "—",
-      "previousRank": 21,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/posthog/"
     },
     {
@@ -409,8 +409,8 @@
       "website": "https://sentry.io/",
       "description": "A developer platform for monitoring application errors and performance.",
       "productType": "Observability platform",
-      "movement": "—",
-      "previousRank": 22,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/sentry/"
     },
     {
@@ -427,8 +427,8 @@
       "website": "https://openrouter.ai/",
       "description": "An API service that provides a common interface for accessing multiple AI models.",
       "productType": "Developer API",
-      "movement": "—",
-      "previousRank": 23,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/openrouter/"
     },
     {
@@ -445,8 +445,8 @@
       "website": "https://browserbase.com/",
       "description": "A platform that provides managed web browsers for automation and AI applications.",
       "productType": "Developer platform",
-      "movement": "—",
-      "previousRank": 24,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/browserbase/"
     },
     {
@@ -463,8 +463,8 @@
       "website": "https://semrush.com/",
       "description": "A digital marketing platform with tools for search visibility, content, advertising, and competitive research.",
       "productType": "Marketing platform",
-      "movement": "—",
-      "previousRank": 25,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/semrush/"
     },
     {
@@ -481,8 +481,8 @@
       "website": "https://ahrefs.com/",
       "description": "An SEO platform for researching keywords, backlinks, competitors, and website search performance.",
       "productType": "SEO platform",
-      "movement": "—",
-      "previousRank": 26,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/ahrefs/"
     },
     {
@@ -499,8 +499,8 @@
       "website": "https://screamingfrog.co.uk/seo-spider",
       "description": "A website crawler used to collect technical and on-page data for SEO audits.",
       "productType": "Desktop software",
-      "movement": "—",
-      "previousRank": 27,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/screaming-frog-seo-spider/"
     },
     {
@@ -517,8 +517,8 @@
       "website": "https://frase.io/",
       "description": "A content workflow platform for researching, outlining, writing, and optimizing search-focused content.",
       "productType": "Content platform",
-      "movement": "—",
-      "previousRank": 28,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/frase/"
     },
     {
@@ -535,8 +535,8 @@
       "website": "https://search.google.com/search-console",
       "description": "A Google service for monitoring how websites appear and perform in Google Search.",
       "productType": "Web service",
-      "movement": "—",
-      "previousRank": 29,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/google-search-console/"
     },
     {
@@ -553,8 +553,8 @@
       "website": "https://notion.com/",
       "description": "A workspace for documents, knowledge bases, projects, and team collaboration.",
       "productType": "Workspace",
-      "movement": "—",
-      "previousRank": 30,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/notion/"
     },
     {
@@ -571,8 +571,8 @@
       "website": "https://linear.app/",
       "description": "A product development system for managing issues, projects, and planning.",
       "productType": "Project management",
-      "movement": "—",
-      "previousRank": 31,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/linear/"
     },
     {
@@ -589,8 +589,8 @@
       "website": "https://figma.com/",
       "description": "A collaborative platform for interface design, prototyping, and design systems.",
       "productType": "Design platform",
-      "movement": "—",
-      "previousRank": 32,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/figma/"
     },
     {
@@ -607,8 +607,8 @@
       "website": "https://zapier.com/",
       "description": "A workflow automation platform that connects applications and moves data between them.",
       "productType": "Automation platform",
-      "movement": "—",
-      "previousRank": 33,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/zapier/"
     },
     {
@@ -625,8 +625,8 @@
       "website": "https://make.com/",
       "description": "A visual platform for designing and running automated workflows between applications.",
       "productType": "Automation platform",
-      "movement": "—",
-      "previousRank": 34,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/make/"
     },
     {
@@ -643,8 +643,8 @@
       "website": "https://canva.com/",
       "description": "A visual communication platform for creating designs, documents, presentations, and other media.",
       "productType": "Design platform",
-      "movement": "—",
-      "previousRank": 35,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/canva/"
     },
     {
@@ -661,8 +661,8 @@
       "website": "https://midjourney.com/",
       "description": "An AI platform for creating images from text and image prompts.",
       "productType": "Image generator",
-      "movement": "—",
-      "previousRank": 36,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/midjourney/"
     },
     {
@@ -679,8 +679,8 @@
       "website": "https://elevenlabs.io/",
       "description": "An AI audio platform for generating speech, voices, sound effects, and related audio.",
       "productType": "Audio platform",
-      "movement": "—",
-      "previousRank": 37,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/elevenlabs/"
     },
     {
@@ -697,8 +697,8 @@
       "website": "https://runwayml.com/",
       "description": "A creative platform with AI tools for generating and editing video and images.",
       "productType": "Creative platform",
-      "movement": "—",
-      "previousRank": 38,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/runway/"
     },
     {
@@ -715,8 +715,8 @@
       "website": "https://descript.com/",
       "description": "A desktop platform for recording, transcribing, and editing audio and video.",
       "productType": "Media editor",
-      "movement": "—",
-      "previousRank": 39,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/descript/"
     },
     {
@@ -733,8 +733,8 @@
       "website": "https://adobe.com/products/firefly.html",
       "description": "A family of Adobe generative AI tools for creating and editing visual and media content.",
       "productType": "Creative platform",
-      "movement": "—",
-      "previousRank": 40,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/adobe-firefly/"
     },
     {
@@ -751,8 +751,8 @@
       "website": "https://see.io/",
       "description": "AI website generator and hosting platform that turns text prompts into live Git-backed websites with instant deployment.",
       "productType": "AI agent",
-      "movement": "—",
-      "previousRank": 41,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/see-io/"
     },
     {
@@ -769,8 +769,8 @@
       "website": "https://tutti.so/",
       "description": "Join campaigns from real brands and get paid on effective exposure and engagement. No minimum followers. Performance-based payouts for creators on X/Twitter.",
       "productType": "Marketing platform",
-      "movement": "—",
-      "previousRank": 42,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/tutti/"
     },
     {
@@ -787,8 +787,8 @@
       "website": "https://joni.ai/",
       "description": "JONI is your personal AI computer. Chat once and a team of AI agents and skills gets to work, with the right model picked for every job. None of the complexity.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 43,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/joni/"
     },
     {
@@ -805,8 +805,8 @@
       "website": "https://outrank.so/",
       "description": "Get traffic and outrank competitors with Backlinks & SEO-optimized content while you sleep.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 44,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/outrank/"
     },
     {
@@ -823,8 +823,8 @@
       "website": "https://orynth.dev/",
       "description": "Discover early-stage products, support their creators, and invest in their coins. Orynth connects builders with communities who believe in them.",
       "productType": "Software platform",
-      "movement": "—",
-      "previousRank": 45,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/orynth/"
     },
     {
@@ -841,8 +841,8 @@
       "website": "https://crowdreply.io/",
       "description": "The only AI search visibility platform with a built-in Engagement Engine. Track rankings, monitor cited conversations and place your brand where it matters.",
       "productType": "SEO platform",
-      "movement": "—",
-      "previousRank": 46,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/crowdreply/"
     },
     {
@@ -859,8 +859,8 @@
       "website": "https://trycomp.ai/",
       "description": "Automate SOC 2, ISO 27001, HIPAA, and GDPR. 580+ integrations, 1,000+ companies, audit-ready in days, with audit and pentest included.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 47,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/comp-ai/"
     },
     {
@@ -877,8 +877,8 @@
       "website": "https://zerorank.ai/",
       "description": "Track and improve your visibility across AI platforms. Reach customers before your competitors do.",
       "productType": "SEO platform",
-      "movement": "—",
-      "previousRank": 48,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/zerorank/"
     },
     {
@@ -895,8 +895,8 @@
       "website": "https://pecan.ai/",
       "description": "Your data already knows who'll churn, buy, or default. Pecan turns it into predictions instantly - No data scientists, no code, just answers inside your CRM",
       "productType": "AI agent",
-      "movement": "—",
-      "previousRank": 49,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/pecan-ai/"
     },
     {
@@ -913,8 +913,8 @@
       "website": "https://lathire.com/",
       "description": "LatHire is Latin America's largest talent marketplace. Hire vetted tech and generalist professionals in as little as 24 hours, for up to 80% less",
       "productType": "Software platform",
-      "movement": "—",
-      "previousRank": 50,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/latamhire/"
     },
     {
@@ -931,8 +931,8 @@
       "website": "https://flopay.com/",
       "description": "Your dedicated payments team in one SDK. FloPay maximizes authorization rates, recovers failed payments, and grows revenue from the customers you already have.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 51,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/flopay/"
     },
     {
@@ -949,8 +949,8 @@
       "website": "https://modulate.ai/",
       "description": "Modulate is a frontier voice AI company building the world’s first Ensemble Listening Model that outperforms LLMs at understanding real conversations.",
       "productType": "Developer tool",
-      "movement": "—",
-      "previousRank": 52,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/modulate/"
     },
     {
@@ -967,8 +967,8 @@
       "website": "https://context.dev/",
       "description": "Context.dev is a web scraping API for AI agents: scrape any URL into LLM-ready Markdown, crawl entire sites, and extract structured data with one REST API.",
       "productType": "Developer framework",
-      "movement": "—",
-      "previousRank": 53,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/context-dev/"
     },
     {
@@ -985,8 +985,8 @@
       "website": "https://fatjoe.com/",
       "description": "Rated Excellent on TrustPilot. White label SEO, link building, digital PR, and content creation services with super fast turnarounds.",
       "productType": "SEO platform",
-      "movement": "—",
-      "previousRank": 54,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/fatjoe/"
     },
     {
@@ -1003,8 +1003,8 @@
       "website": "https://fuellog.ai/",
       "description": "Send a photo of your food on Telegram — AI counts the calories and macros, and you take on your squad in the weekly leaderboards. Free, no logins.",
       "productType": "Health platform",
-      "movement": "—",
-      "previousRank": 55,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/fuel-log/"
     },
     {
@@ -1021,8 +1021,8 @@
       "website": "https://contentstudio.io/",
       "description": "AI social media manager that never sleeps. It knows your brand, creates and publishes on-brand content and learns what works. Review on run on autopilot.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 56,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/contentstudio/"
     },
     {
@@ -1039,8 +1039,8 @@
       "website": "https://winning.com/",
       "description": "The global leaderboard where winning businesses bid for visibility and visitors while receiving valuable SEO backlinks.",
       "productType": "Software platform",
-      "movement": "—",
-      "previousRank": 57,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/winning/"
     },
     {
@@ -1057,8 +1057,8 @@
       "website": "https://unify.ai/",
       "description": "A research lab bridging symbolic reasoning and continual learning.",
       "productType": "AI agent",
-      "movement": "—",
-      "previousRank": 58,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/unify/"
     },
     {
@@ -1075,8 +1075,8 @@
       "website": "https://otio.ai/",
       "description": "Keep PDFs, videos, and pages in one library. Chat across models with page-level citations. Your sources stay.",
       "productType": "Software platform",
-      "movement": "—",
-      "previousRank": 59,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/otio/"
     },
     {
@@ -1093,8 +1093,8 @@
       "website": "https://mytb.ai/",
       "description": "Automated, accurate, actionable bookkeeping and trial balance software for modern accounting firms.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 60,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/mytb-ai/"
     },
     {
@@ -1111,8 +1111,8 @@
       "website": "https://fiber.so/",
       "description": "Receive stablecoins, grow your balance, trade assets, and move money with Fiber without exposing your financial history or giving up control of your assets.",
       "productType": "Finance platform",
-      "movement": "—",
-      "previousRank": 61,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/fiber/"
     },
     {
@@ -1129,8 +1129,8 @@
       "website": "https://fangcode.ai/",
       "description": "A low-cost coding agent on one $10 plan — 12,400 to 49,600 requests per five-hour window across four models, against 7,600 on OpenCode Go, at one rate every hour of the day.",
       "productType": "AI agent",
-      "movement": "—",
-      "previousRank": 62,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/fangcode/"
     },
     {
@@ -1147,8 +1147,8 @@
       "website": "https://namerockstar.com/",
       "description": "Your product isn",
       "productType": "Software platform",
-      "movement": "—",
-      "previousRank": 63,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/namerockstar/"
     },
     {
@@ -1165,8 +1165,8 @@
       "website": "https://joinklover.com/",
       "description": "Get up to $750 with no late fees, interest or credit checks. Track spending with budget tools, save money with exclusive offers, and win daily sweepstakes.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 64,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/klover/"
     },
     {
@@ -1183,8 +1183,8 @@
       "website": "https://trylle.com/",
       "description": "Agent execution isn",
       "productType": "Developer framework",
-      "movement": "—",
-      "previousRank": 65,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/trylle/"
     },
     {
@@ -1201,8 +1201,8 @@
       "website": "https://myworkoutlogs.com/",
       "description": "A fast, private workout tracker, available now on iPhone and in development for Android. Free forever, with no account, subscriptions, ads, or paid features.",
       "productType": "Health platform",
-      "movement": "—",
-      "previousRank": 66,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/myworkoutlogs/"
     },
     {
@@ -1219,8 +1219,8 @@
       "website": "https://trycodus.com/",
       "description": "Codus gives every person on your team a crew of autonomous agents running in parallel on their own Mac. The same quadrants, browser and planner that ship code also run SEO, video production, data research and your support inbox. £99 per seat per month.",
       "productType": "Developer framework",
-      "movement": "—",
-      "previousRank": 67,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/codus/"
     },
     {
@@ -1237,8 +1237,8 @@
       "website": "https://affiliateo.com/",
       "description": "Affiliate marketing platform for businesses and creators. Track every sale, view, and click across web and mobile, and pay your affiliates automatically.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 68,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/affiliateo/"
     },
     {
@@ -1255,8 +1255,8 @@
       "website": "https://reactbits.dev/",
       "description": "An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces.",
       "productType": "Developer tool",
-      "movement": "—",
-      "previousRank": 69,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/reactbits/"
     },
     {
@@ -1273,8 +1273,8 @@
       "website": "https://peptiprices.com/",
       "description": "Find the best prices for research peptides including Retatrutide, Tirzepatide, BPC-157, and more. Compare prices across verified suppliers with real-time stock status and detailed product information.",
       "productType": "Price comparison tool",
-      "movement": "—",
-      "previousRank": 70,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/peptiprices/"
     },
     {
@@ -1291,8 +1291,8 @@
       "website": "https://evomarketing.co/",
       "description": "Mass UGC that compounds into revenue and acquisition channels you own, not rent. EVO is the pioneer in creating organic content to build predictable growth and revenue.",
       "productType": "Marketing platform",
-      "movement": "—",
-      "previousRank": 71,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/evo-marketing/"
     },
     {
@@ -1309,8 +1309,8 @@
       "website": "https://ayautomate.com/",
       "description": "Scale 10X without hiring more staff. Free AI audit, custom automation builds, and a forward-deployed engineer on your team. Book a free strategy call.",
       "productType": "Agency platform",
-      "movement": "—",
-      "previousRank": 72,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/ay-automate/"
     },
     {
@@ -1327,8 +1327,8 @@
       "website": "https://launchclub.ai/",
       "description": "Reddit marketing agency helping brands grow through strategic content & community engagement. Partner with a trusted Reddit agency to scale visibility and leads.",
       "productType": "Agency platform",
-      "movement": "—",
-      "previousRank": 73,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/launch-club/"
     },
     {
@@ -1345,8 +1345,8 @@
       "website": "https://prelint.com/",
       "description": "Prelint reviews your product specifications on every pull request. Catch product drift, inconsistencies, and misalignment before they ship.",
       "productType": "Developer framework",
-      "movement": "—",
-      "previousRank": 74,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/prelint/"
     },
     {
@@ -1363,8 +1363,8 @@
       "website": "https://neocam.app/",
       "description": "Transform your photos into beautiful pixelated masterpieces with NeoCam. Create custom palettes, apply dithering effects, and join the retro photography revolution.",
       "productType": "Design platform",
-      "movement": "—",
-      "previousRank": 75,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/neocam/"
     },
     {
@@ -1381,8 +1381,8 @@
       "website": "https://ranked.ai/",
       "description": "Get ranked everywhere you're searched. One provider that runs SEO, PPC and AI visibility - software that shows you everything, a team that does everything.",
       "productType": "SEO platform",
-      "movement": "—",
-      "previousRank": 76,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/ranked-ai/"
     },
     {
@@ -1399,8 +1399,8 @@
       "website": "https://limestonedigital.com/",
       "description": "Enterprise AI transformation across product, process, and people: embedded engineers who ship, measure, and train until the capability is yours.",
       "productType": "Agency platform",
-      "movement": "—",
-      "previousRank": 77,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/limestone-digital/"
     },
     {
@@ -1417,8 +1417,8 @@
       "website": "https://overskill.com/",
       "description": "Sign-in, payments, database, email, push notifications, mobile install. All built on prompt one.",
       "productType": "Developer framework",
-      "movement": "—",
-      "previousRank": 78,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/overskill/"
     },
     {
@@ -1435,8 +1435,8 @@
       "website": "https://startglobal.co/",
       "description": "Form your US LLC in minutes. StartGlobal provides fast, affordable LLC formation with registered agent service, business tax number setup, and compliance management for entrepreneurs worldwide.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 79,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/startglobal/"
     },
     {
@@ -1453,8 +1453,8 @@
       "website": "https://capitalgurus.com/",
       "description": "Capital Gurus offers customized small business loans and financing solutions for your company - unlock your business's potential. Apply today.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 80,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/capital-gurus/"
     },
     {
@@ -1471,8 +1471,8 @@
       "website": "https://stealthgpt.ai/",
       "description": "StealthGPT humanizes AI content with a 99% AI-detection bypass rate. Trusted by 1.5M+ users and 350+ businesses worldwide.",
       "productType": "Business platform",
-      "movement": "—",
-      "previousRank": 81,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/stealthgpt/"
     },
     {
@@ -1489,8 +1489,8 @@
       "website": "https://nextbrand.com/",
       "description": "Great businesses start with unforgettable brand names. Discover yours with NextBrand’s smarter business name generator and domain name marketplace.",
       "productType": "Software platform",
-      "movement": "—",
-      "previousRank": 82,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/nextbrand/"
     },
     {
@@ -1507,8 +1507,8 @@
       "website": "https://doomers.ai/",
       "description": "A creator marketing agency for AI companies. The X network behind the biggest launches: product drops, funding raises, and founder moments engineered to trend.",
       "productType": "Software platform",
-      "movement": "—",
-      "previousRank": 83,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/doomers/"
     },
     {
@@ -1525,8 +1525,8 @@
       "website": "https://capgo.app/",
       "description": "Open-source live update platform for Ionic and Capacitor apps: OTA updates, native build delivery, release channels, real-time logs, and analytics",
       "productType": "Developer framework",
-      "movement": "—",
-      "previousRank": 84,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/capgo/"
     },
     {
@@ -1543,8 +1543,8 @@
       "website": "https://venturelabs.io/",
       "description": "The Direct-Response Paid Advertising Agency That Scales. Fixed, Monthly Contracts. Expert Talent.",
       "productType": "Agency platform",
-      "movement": "—",
-      "previousRank": 85,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/venture-labs/"
     },
     {
@@ -1561,8 +1561,8 @@
       "website": "https://olvy.co/",
       "description": "Olvy is built for user-centric product teams to track and analyse their user feedback, ship things faster and smoother, and keep everyone in the loop.",
       "productType": "Developer tool",
-      "movement": "—",
-      "previousRank": 86,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/olvy/"
     },
     {
@@ -1579,8 +1579,8 @@
       "website": "https://peptidebenchmark.com/",
       "description": "Compare peptide vendors by trust evidence, live pricing, and public COA records. Independent reviews for research buyers.",
       "productType": "Health platform",
-      "movement": "—",
-      "previousRank": 87,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/peptidebenchmark/"
     },
     {
@@ -1597,8 +1597,8 @@
       "website": "https://turingo.net/",
       "description": "AI detection with evidence. Turingo analyzes and replays the writing process in Google Docs and Microsoft Word to show how documents were created.",
       "productType": "Productivity tool",
-      "movement": "—",
-      "previousRank": 88,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/turingo/"
     },
     {
@@ -1615,8 +1615,8 @@
       "website": "https://paywithfour.com/",
       "description": "Download the Four app, get a one-time card, and split your purchase into four easy payments. No credit impact. Shop at your favorite retailers.",
       "productType": "Finance platform",
-      "movement": "—",
-      "previousRank": 89,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/four/"
     },
     {
@@ -1633,8 +1633,8 @@
       "website": "https://armadai.sh/",
       "description": "Armadai is a native macOS spatial workspace: your projects become workspaces on an infinite canvas, with Claude Code, Codex, terminals, a full IDE, browsers, notes, and task boards as movable tiles.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 90,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/armadai/"
     },
     {
@@ -1651,8 +1651,8 @@
       "website": "https://bindqr.com/",
       "description": "Dynamic QR code platform with API. Traceability, anti-counterfeiting and verifiable certificates. Update content without changing the code, analyze stats, batch export for print.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 91,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/bindqr/"
     },
     {
@@ -1669,8 +1669,8 @@
       "website": "https://blogged.dev/",
       "description": "Blogged runs your SaaS blog on Autopilot, from research and writing to SEO, GEO, internal links, and publishing for growth.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 92,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/blogged/"
     },
     {
@@ -1687,8 +1687,8 @@
       "website": "https://buildai.space/",
       "description": "BuildAI is the easiest way to build professional AI apps, products, and online businesses without coding. Turn your ideas into fully functional apps instantly with AI.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 93,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/buildai-space/"
     },
     {
@@ -1705,8 +1705,8 @@
       "website": "https://carillon.dev/",
       "description": "Mobile push with a full delivery trace on every notification. Hosted in the EU, DPA included on every plan.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 94,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/carillon/"
     },
     {
@@ -1723,8 +1723,8 @@
       "website": "https://codeprepped.com/",
       "description": "Frontend and developer interview prep — Code Arena, Keywords Trainer, Job Tracker, Sandbox, and AI Trainer in one daily practice loop.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 95,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/codeprepped/"
     },
     {
@@ -1741,8 +1741,8 @@
       "website": "https://converterer.com/",
       "description": "File conversion API for documents, images, audio, and video. 300+ conversion pairs plus website-to-PDF capture. Code samples, no-code flows, 100 free/month.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 96,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/converterer/"
     },
     {
@@ -1759,8 +1759,8 @@
       "website": "https://crawlraven.com/",
       "description": "CrawlRaven joins Search Console, GA4, and your Ahrefs or Semrush lists to a 200-point crawl: what to write, what to update, what to fix first. Free for one site.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 97,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/crawlraven/"
     },
     {
@@ -1777,8 +1777,8 @@
       "website": "https://crewtower.app/",
       "description": "Crew Tower turns the MacBook notch into a live control tower for every AI coding agent you run. Approve, deny, answer and jump to the exact terminal tab without leaving what you are doing.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 98,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/crew-tower/"
     },
     {
@@ -1795,8 +1795,8 @@
       "website": "https://demanddiscovery.ai/",
       "description": "Demand Discovery AI™ helps founders prove startup-idea demand with real market signals — replies, clicks, objections, and expressions of intent — before writing a line of code. Get a Demand Score and",
       "productType": null,
-      "movement": "—",
-      "previousRank": 99,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/demand-discovery-ai/"
     },
     {
@@ -1813,8 +1813,8 @@
       "website": "https://dingdong.so/",
       "description": "Ding Dong searches X for posts worth answering, writes you a reply for each, and stacks them into a deck. Swipe right and X opens with the draft already loaded. You press post.",
       "productType": null,
-      "movement": "—",
-      "previousRank": 100,
+      "movement": null,
+      "previousRank": null,
       "alternativesUrl": "https://harpd.com/alternatives/ding-dong/"
     }
   ]
