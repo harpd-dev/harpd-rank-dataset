@@ -253,3 +253,15 @@ names and trademarks belong to their respective owners.
 - Open Data hub (all endpoints) — <https://harpd.com/data/>
 - Embeddable widget — <https://harpd.com/embed/>
 - Methodology — <https://harpd.com/rank/methodology/>
+
+## Harpd Open AI Data Ecosystem
+
+Every link below points at a repository that exists.
+
+- **AI datasets** — [`harpd-ai-datasets`](https://github.com/harpd-dev/harpd-ai-datasets)
+- **AI research** — [`harpd-ai-research-notebooks`](https://github.com/harpd-dev/harpd-ai-research-notebooks)
+- **AI benchmarks** — [`llm-cost-benchmark`](https://github.com/harpd-dev/llm-cost-benchmark) · [`model-replacement-benchmark`](https://github.com/harpd-dev/model-replacement-benchmark) · [`cost-per-successful-task`](https://github.com/harpd-dev/cost-per-successful-task)
+- **AI product rankings** — [`harpd-rank-dataset`](https://github.com/harpd-dev/harpd-rank-dataset) · [`harpd-discovery-dataset`](https://github.com/harpd-dev/harpd-discovery-dataset)
+- **AI data explorer** — [`harpd-ai-data-explorer`](https://github.com/harpd-dev/harpd-ai-data-explorer)
+- **AI ranking dashboard** — [`harpd-ai-ranking-dashboard`](https://github.com/harpd-dev/harpd-ai-ranking-dashboard)
+- **MCP / AI agent integrations** — [`harpd-mcp`](https://github.com/harpd-dev/harpd-mcp)
