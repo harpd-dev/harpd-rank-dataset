@@ -1,3 +1,10 @@
+> **Consolidated into [Harpd AI Datasets](https://github.com/harpd-dev/harpd-ai-datasets).**
+> This repo is now part of the unified `harpd-ai-datasets` mirror, which combines the Rank dataset,
+> the Product Discovery Index, research indices, evidence and market data in one place — with daily
+> sync, JSON + CSV, stable schemas and a quality gate. New consumers should use
+> [harpd-dev/harpd-ai-datasets](https://github.com/harpd-dev/harpd-ai-datasets); this repo is kept
+> for historical snapshots only. Data from Harpd (https://harpd.com/) · CC BY 4.0.
+
 # Harpd Rank Dataset
 
 An open, machine-readable dataset of AI products and their Harpd Rank positions — published as a
