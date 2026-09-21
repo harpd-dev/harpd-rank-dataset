@@ -1,11 +1,12 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-16T13:28:19.249Z",
+  "generatedAt": "2026-09-21T08:58:01.173Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1122,
-  "lastUpdated": "2026-09-15T03:58:43.395Z",
+  "count": 1123,
+  "lastUpdated": "2026-09-18T15:56:46.495Z",
+  "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
       "id": "imgkit-86d32f3e",
@@ -1411,7 +1412,7 @@
       "categoryName": "Developer",
       "rank": 94,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-09T07:06:40.831Z",
       "website": "https://carillon.dev/",
       "description": "Mobile push with a full delivery trace on every notification. Hosted in the EU, DPA included on every plan.",
@@ -2866,7 +2867,7 @@
       "categoryName": "Productivity",
       "rank": 191,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-15T00:44:54.170Z",
       "website": "https://acta.ai/",
       "description": "Boost productivity with Acta.ai, the intelligent AI meeting assistant. Instantly automate note-taking, generate actionable summaries, and streamline admin tasks—with seamless integration for Zoom, Teams, and Google Meet.",
@@ -16835,6 +16836,21 @@
       "updatedAt": "2026-09-15T03:58:43.395Z",
       "website": "https://aiwordsolver.com/",
       "description": "Solve word puzzles instantly with AI Word Solver. Unscramble letters, find hidden words, and get accurate results in seconds. Free, fast, no signup needed.",
+      "productType": null
+    },
+    {
+      "id": "aircube-d9ba22d2",
+      "name": "AirCube",
+      "slug": "aircube-d9ba22d2",
+      "url": "https://harpd.com/rank/aircube-d9ba22d2/",
+      "category": "design",
+      "categoryName": "Design",
+      "rank": 1123,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-18T15:56:46.495Z",
+      "website": "https://aircube.ai/",
+      "description": "AirCube is an all-in-one generative AI platform offering access to 450+ image, video and audio models through one unified API and easy-to-use web tools.",
       "productType": null
     }
   ]
