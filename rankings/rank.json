@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-21T08:58:00.458Z",
+  "generatedAt": "2026-09-28T09:47:50.470Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1123,
+  "count": 1125,
   "scope": "overall",
   "periods": {
     "monthStart": "2026-09-01T00:00:00.000Z",
     "monthEnd": "2026-10-01T00:00:00.000Z",
-    "weekStart": "2026-09-21T00:00:00.000Z",
-    "weekEnd": "2026-09-28T00:00:00.000Z",
+    "weekStart": "2026-09-28T00:00:00.000Z",
+    "weekEnd": "2026-10-05T00:00:00.000Z",
     "monthKey": "2026-09",
-    "weekKey": "2026-W39"
+    "weekKey": "2026-W40"
   },
-  "lastUpdated": "2026-09-18T15:56:46.495Z",
+  "lastUpdated": "2026-09-24T14:25:23.056Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -5246,7 +5246,7 @@
       "categoryName": "Marketing",
       "rank": 436,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-15T00:44:54.170Z"
     },
     {
@@ -8642,7 +8642,7 @@
       "categoryName": "Productivity",
       "rank": 719,
       "rankPoints": 0,
-      "verified": false,
+      "verified": true,
       "updatedAt": "2026-09-15T03:58:43.395Z"
     },
     {
@@ -10442,8 +10442,8 @@
       "categoryName": "Business",
       "rank": 869,
       "rankPoints": 0,
-      "verified": false,
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "verified": true,
+      "updatedAt": "2026-09-22T14:32:25.472Z"
     },
     {
       "id": "andrei-saioc",
@@ -13492,6 +13492,30 @@
       "rankPoints": 0,
       "verified": false,
       "updatedAt": "2026-09-18T15:56:46.495Z"
+    },
+    {
+      "id": "minimax-music-3-0-777800b2",
+      "name": "MiniMax Music 3.0",
+      "slug": "minimax-music-3-0-777800b2",
+      "url": "https://harpd.com/rank/minimax-music-3-0-777800b2/",
+      "category": "agents",
+      "categoryName": "Agents",
+      "rank": 1124,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-24T08:36:10.947Z"
+    },
+    {
+      "id": "blyft-385e2c89",
+      "name": "Blyft",
+      "slug": "blyft-385e2c89",
+      "url": "https://harpd.com/rank/blyft-385e2c89/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1125,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-24T14:25:23.056Z"
     }
   ]
 }
