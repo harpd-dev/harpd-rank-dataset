@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-28T09:47:51.047Z",
+  "generatedAt": "2026-10-05T10:27:44.645Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "count": 1125,
-  "lastUpdated": "2026-09-24T14:25:23.056Z",
+  "count": 1129,
+  "lastUpdated": "2026-10-04T15:15:28.844Z",
   "rankPointsMeaning": "Promotional placement purchased with Harpd Credits. Not a product quality score, editorial recommendation, rating or review.",
   "products": [
     {
@@ -16881,6 +16881,66 @@
       "updatedAt": "2026-09-24T14:25:23.056Z",
       "website": "https://blyft.app/",
       "description": "Blyft is an AI vibe-coding platform that lets you build an app and get the complete marketing package to launch it — including a landing page, logo, promo video, social media assets and analytics",
+      "productType": null
+    },
+    {
+      "id": "product-9b2931ff",
+      "name": "مترجم مانجا بالذكاء الاصطناعي",
+      "slug": "product-9b2931ff",
+      "url": "https://harpd.com/rank/product-9b2931ff/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1126,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-28T16:40:37.272Z",
+      "website": "https://mangatranslate.com/ar/ai-manga-translator",
+      "description": "مترجم مانجا بالذكاء الاصطناعي يترجم صفحات القصص المصورة إلى لغات متعددة. يعالج القارئ عدة صور دفعة واحدة ويخصص النص، ويحرر الاستوديو النص والصورة في محرر بصري عبر الإنترنت، ويربط المطور واجهة API بسير عمله. تقدم Ficory LLC المنتج للأفراد والفرق.",
+      "productType": null
+    },
+    {
+      "id": "call24-1143720d",
+      "name": "Call24",
+      "slug": "call24-1143720d",
+      "url": "https://harpd.com/rank/call24-1143720d/",
+      "category": "business",
+      "categoryName": "Business",
+      "rank": 1127,
+      "rankPoints": 0,
+      "verified": false,
+      "updatedAt": "2026-09-29T14:37:39.772Z",
+      "website": "https://call24.us/",
+      "description": "Call24 is an AI receptionist for US HVAC, plumbing, and electrical companies. It answers 24/7, captures job details, and books appointments so contractors stop losing leads to voicemail.",
+      "productType": null
+    },
+    {
+      "id": "easypanel-baae2eca",
+      "name": "Easypanel",
+      "slug": "easypanel-baae2eca",
+      "url": "https://harpd.com/rank/easypanel-baae2eca/",
+      "category": "developer",
+      "categoryName": "Developer",
+      "rank": 1128,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-01T20:08:31.429Z",
+      "website": "https://easypanel.io/",
+      "description": "Easypanel is a self-hosted deployment platform for developers and small teams. Run apps, databases, Docker images and Docker Compose projects on your own server, with Git deployments, automatic SSL, backups, monitoring, logs and 750+ one-click applications.",
+      "productType": null
+    },
+    {
+      "id": "kling-ai-video-45821ee2",
+      "name": "Kling AI Video",
+      "slug": "kling-ai-video-45821ee2",
+      "url": "https://harpd.com/rank/kling-ai-video-45821ee2/",
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "rank": 1129,
+      "rankPoints": 0,
+      "verified": true,
+      "updatedAt": "2026-10-04T15:15:28.844Z",
+      "website": "https://klingaivideo.com/",
+      "description": "Independent web-based text-to-video and image-to-video creation. Describe a scene or upload your own image to create short AI videos for creative projects. Limited trial credits and paid plans are available. This is a third-party website, not the official Kuaishou service.",
       "productType": null
     }
   ]
