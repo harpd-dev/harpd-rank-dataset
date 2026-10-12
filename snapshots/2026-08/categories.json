@@ -1,27 +1,27 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-05T10:27:44.528Z",
+  "generatedAt": "2026-10-12T10:51:01.134Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "categoryBoards": 28,
   "categoriesWithProducts": 27,
-  "totalProducts": 1129,
-  "lastUpdated": "2026-10-04T15:15:28.844Z",
+  "totalProducts": 1147,
+  "lastUpdated": "2026-10-12T08:04:41.563Z",
   "categories": [
     {
       "slug": "seo",
       "name": "SEO",
       "description": "Discover products for search visibility, technical SEO, content optimization and answer-engine discovery.",
       "url": "https://harpd.com/rank/category/seo/",
-      "productCount": 60,
+      "productCount": 61,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-10T12:45:46.675Z"
     },
     {
       "slug": "agents",
@@ -41,13 +41,13 @@
       "name": "AI Media",
       "description": "Discover tools for AI images, audio, video and creative media production.",
       "url": "https://harpd.com/rank/category/ai-media/",
-      "productCount": 66,
+      "productCount": 73,
       "rankedProductCount": 1,
-      "totalRankPoints": 233,
+      "totalRankPoints": 238,
       "state": "ACTIVE",
       "topRankOpen": false,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-04T15:15:28.844Z"
+      "updatedAt": "2026-10-12T08:04:41.563Z"
     },
     {
       "slug": "marketing",
@@ -67,13 +67,13 @@
       "name": "Developer",
       "description": "Discover APIs, infrastructure, testing and productivity tools built for software teams.",
       "url": "https://harpd.com/rank/category/developer/",
-      "productCount": 143,
+      "productCount": 144,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-10-01T20:08:31.429Z"
+      "updatedAt": "2026-10-09T06:25:40.080Z"
     },
     {
       "slug": "productivity",
@@ -106,13 +106,13 @@
       "name": "Design",
       "description": "Discover design tools for interfaces, graphics, prototypes, assets and visual collaboration.",
       "url": "https://harpd.com/rank/category/design/",
-      "productCount": 27,
+      "productCount": 28,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-18T15:56:46.495Z"
+      "updatedAt": "2026-10-09T23:59:27.484Z"
     },
     {
       "slug": "social",
@@ -145,26 +145,26 @@
       "name": "Sales",
       "description": "Explore CRM, outreach, lead generation and pipeline products for sales teams.",
       "url": "https://harpd.com/rank/category/sales/",
-      "productCount": 16,
+      "productCount": 17,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-10T13:58:15.500Z"
     },
     {
       "slug": "business",
       "name": "Business",
       "description": "Discover operations, finance, legal and admin products that run the back office.",
       "url": "https://harpd.com/rank/category/business/",
-      "productCount": 35,
+      "productCount": 37,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-29T14:37:39.772Z"
+      "updatedAt": "2026-10-10T13:57:54.326Z"
     },
     {
       "slug": "games",
@@ -184,13 +184,13 @@
       "name": "Education",
       "description": "Discover learning platforms, courses, tutors and study tools for students and educators.",
       "url": "https://harpd.com/rank/category/education/",
-      "productCount": 30,
+      "productCount": 31,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-10T03:32:45.734Z"
     },
     {
       "slug": "health",
@@ -223,13 +223,13 @@
       "name": "Directories",
       "description": "Explore directories, catalogues and curated lists that organize products or information.",
       "url": "https://harpd.com/rank/category/directories/",
-      "productCount": 6,
+      "productCount": 7,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-15T00:44:54.170Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-11T03:36:34.426Z"
     },
     {
       "slug": "hiring",
@@ -275,13 +275,13 @@
       "name": "Agencies",
       "description": "Explore client-management, reporting and delivery tools built for agencies and studios.",
       "url": "https://harpd.com/rank/category/agencies/",
-      "productCount": 5,
+      "productCount": 6,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-08-27T05:51:37.802Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-10T14:01:03.263Z"
     },
     {
       "slug": "security",
@@ -366,13 +366,13 @@
       "name": "Other",
       "description": "Explore the products that do not yet fit a defined Harpd category.",
       "url": "https://harpd.com/rank/category/other/",
-      "productCount": 335,
+      "productCount": 337,
       "rankedProductCount": 0,
       "totalRankPoints": 0,
       "state": "LISTED_NO_RP",
       "topRankOpen": true,
       "createdAt": "2026-09-09T07:06:40.831Z",
-      "updatedAt": "2026-09-15T03:58:43.395Z"
+      "updatedAt": "2026-10-11T08:35:27.894Z"
     }
   ]
 }

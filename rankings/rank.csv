@@ -1,5 +1,5 @@
 id,rank,name,slug,profile_url,category,category_name,rank_points,verified,updated_at
-imgkit-86d32f3e,1,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,233,true,2026-08-28T05:03:03.444Z
+imgkit-86d32f3e,1,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,238,true,2026-08-28T05:03:03.444Z
 claude,2,Claude,claude,https://harpd.com/rank/claude/,agents,Agents,0,false,2026-08-27T06:14:04.721Z
 perplexity,3,Perplexity,perplexity,https://harpd.com/rank/perplexity/,agents,Agents,0,false,2026-08-27T06:14:34.241Z
 gemini,4,Gemini,gemini,https://harpd.com/rank/gemini/,agents,Agents,0,false,2026-08-27T06:14:37.079Z
@@ -1128,3 +1128,21 @@ product-9b2931ff,1126,مترجم مانجا بالذكاء الاصطناعي,pr
 call24-1143720d,1127,Call24,call24-1143720d,https://harpd.com/rank/call24-1143720d/,business,Business,0,false,2026-09-29T14:37:39.772Z
 easypanel-baae2eca,1128,Easypanel,easypanel-baae2eca,https://harpd.com/rank/easypanel-baae2eca/,developer,Developer,0,true,2026-10-01T20:08:31.429Z
 kling-ai-video-45821ee2,1129,Kling AI Video,kling-ai-video-45821ee2,https://harpd.com/rank/kling-ai-video-45821ee2/,ai-media,AI Media,0,true,2026-10-04T15:15:28.844Z
+loretypes-9bff4b0d,1130,LoreTypes,loretypes-9bff4b0d,https://harpd.com/rank/loretypes-9bff4b0d/,other,Other,0,false,2026-10-09T04:37:33.610Z
+codexhot-com-d5587f18,1131,热核算力 (codexhot.com),codexhot-com-d5587f18,https://harpd.com/rank/codexhot-com-d5587f18/,developer,Developer,0,false,2026-10-09T06:25:40.080Z
+venusx-1db52e7b,1132,VenusX,venusx-1db52e7b,https://harpd.com/rank/venusx-1db52e7b/,ai-media,AI Media,0,true,2026-10-09T15:48:25.331Z
+illustro-b60b8e6f,1133,Illustro,illustro-b60b8e6f,https://harpd.com/rank/illustro-b60b8e6f/,design,Design,0,true,2026-10-09T23:59:27.484Z
+lineupdesk-8683ce51,1134,LineupDesk,lineupdesk-8683ce51,https://harpd.com/rank/lineupdesk-8683ce51/,education,Education,0,false,2026-10-10T03:32:45.734Z
+nudgescout-a52c09b9,1135,NudgeScout,nudgescout-a52c09b9,https://harpd.com/rank/nudgescout-a52c09b9/,seo,SEO,0,false,2026-10-10T12:45:46.675Z
+auto555-c48507e1,1136,AUTO555,auto555-c48507e1,https://harpd.com/rank/auto555-c48507e1/,business,Business,0,false,2026-10-10T13:56:00.298Z
+homade-bd94487e,1137,HOMADE,homade-bd94487e,https://harpd.com/rank/homade-bd94487e/,business,Business,0,false,2026-10-10T13:57:54.326Z
+a777aa-084f1330,1138,A777AA,a777aa-084f1330,https://harpd.com/rank/a777aa-084f1330/,sales,Sales,0,false,2026-10-10T13:58:15.500Z
+levitsky-concept-51162783,1139,Levitsky Concept,levitsky-concept-51162783,https://harpd.com/rank/levitsky-concept-51162783/,agencies,Agencies,0,true,2026-10-10T14:01:03.263Z
+dsh-plugins-3926f24d,1140,DSH Plugins,dsh-plugins-3926f24d,https://harpd.com/rank/dsh-plugins-3926f24d/,directories,Directories,0,false,2026-10-11T03:36:34.426Z
+kenerate-ai-f18773aa,1141,Kenerate AI,kenerate-ai-f18773aa,https://harpd.com/rank/kenerate-ai-f18773aa/,ai-media,AI Media,0,false,2026-10-11T07:45:39.725Z
+aurora-tonight-e2e2ce97,1142,Aurora Tonight,aurora-tonight-e2e2ce97,https://harpd.com/rank/aurora-tonight-e2e2ce97/,other,Other,0,false,2026-10-11T08:35:27.894Z
+gomotion-ai-534cb9e0,1143,GoMotion AI,gomotion-ai-534cb9e0,https://harpd.com/rank/gomotion-ai-534cb9e0/,ai-media,AI Media,0,true,2026-10-11T11:49:37.931Z
+seedance-3-0-31a1e71e,1144,Seedance 3.0,seedance-3-0-31a1e71e,https://harpd.com/rank/seedance-3-0-31a1e71e/,ai-media,AI Media,0,true,2026-10-11T13:53:18.167Z
+burning-bridges-ai-93c250f7,1145,Burning Bridges AI,burning-bridges-ai-93c250f7,https://harpd.com/rank/burning-bridges-ai-93c250f7/,ai-media,AI Media,0,false,2026-10-11T17:49:39.648Z
+instinct-ai-7bcd39d4,1146,Instinct AI,instinct-ai-7bcd39d4,https://harpd.com/rank/instinct-ai-7bcd39d4/,ai-media,AI Media,0,false,2026-10-12T05:04:39.961Z
+clipin-ai-3a2c6665,1147,Clipin AI,clipin-ai-3a2c6665,https://harpd.com/rank/clipin-ai-3a2c6665/,ai-media,AI Media,0,false,2026-10-12T08:04:41.563Z
