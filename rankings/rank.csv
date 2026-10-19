@@ -1,5 +1,5 @@
 id,rank,name,slug,profile_url,category,category_name,rank_points,verified,updated_at
-imgkit-86d32f3e,1,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,238,true,2026-08-28T05:03:03.444Z
+imgkit-86d32f3e,1,imgkit,imgkit-86d32f3e,https://harpd.com/rank/imgkit-86d32f3e/,ai-media,AI Media,258,true,2026-08-28T05:03:03.444Z
 claude,2,Claude,claude,https://harpd.com/rank/claude/,agents,Agents,0,false,2026-08-27T06:14:04.721Z
 perplexity,3,Perplexity,perplexity,https://harpd.com/rank/perplexity/,agents,Agents,0,false,2026-08-27T06:14:34.241Z
 gemini,4,Gemini,gemini,https://harpd.com/rank/gemini/,agents,Agents,0,false,2026-08-27T06:14:37.079Z
@@ -1146,3 +1146,20 @@ seedance-3-0-31a1e71e,1144,Seedance 3.0,seedance-3-0-31a1e71e,https://harpd.com/
 burning-bridges-ai-93c250f7,1145,Burning Bridges AI,burning-bridges-ai-93c250f7,https://harpd.com/rank/burning-bridges-ai-93c250f7/,ai-media,AI Media,0,false,2026-10-11T17:49:39.648Z
 instinct-ai-7bcd39d4,1146,Instinct AI,instinct-ai-7bcd39d4,https://harpd.com/rank/instinct-ai-7bcd39d4/,ai-media,AI Media,0,false,2026-10-12T05:04:39.961Z
 clipin-ai-3a2c6665,1147,Clipin AI,clipin-ai-3a2c6665,https://harpd.com/rank/clipin-ai-3a2c6665/,ai-media,AI Media,0,false,2026-10-12T08:04:41.563Z
+paper-animation-2ec454df,1148,Paper Animation,paper-animation-2ec454df,https://harpd.com/rank/paper-animation-2ec454df/,design,Design,0,false,2026-10-12T15:40:58.527Z
+trends-monitor-0a2ac1dd,1149,Trends Monitor,trends-monitor-0a2ac1dd,https://harpd.com/rank/trends-monitor-0a2ac1dd/,seo,SEO,0,false,2026-10-13T11:10:39.724Z
+menlo-for-agents-0a7fddbb,1150,Menlo for Agents,menlo-for-agents-0a7fddbb,https://harpd.com/rank/menlo-for-agents-0a7fddbb/,business,Business,0,true,2026-10-13T22:50:41.650Z
+hit-the-road-dude-ai-fe2d9999,1151,Hit the Road Dude AI,hit-the-road-dude-ai-fe2d9999,https://harpd.com/rank/hit-the-road-dude-ai-fe2d9999/,ai-media,AI Media,0,false,2026-10-15T09:05:01.682Z
+let-s-calendar-32dd3676,1152,Let's Calendar,let-s-calendar-32dd3676,https://harpd.com/rank/let-s-calendar-32dd3676/,productivity,Productivity,0,true,2026-10-15T11:50:24.666Z
+llmnesia-40b9f25b,1153,LLMnesia,llmnesia-40b9f25b,https://harpd.com/rank/llmnesia-40b9f25b/,productivity,Productivity,0,false,2026-10-15T14:44:57.759Z
+artcraft-download-guide-4c2d56f5,1154,ArtCraft Download Guide,artcraft-download-guide-4c2d56f5,https://harpd.com/rank/artcraft-download-guide-4c2d56f5/,design,Design,0,false,2026-10-16T03:05:07.524Z
+state-property-meme-ai-798fe859,1155,State Property Meme AI,state-property-meme-ai-798fe859,https://harpd.com/rank/state-property-meme-ai-798fe859/,ai-media,AI Media,0,false,2026-10-16T11:55:16.390Z
+hol-guard-5ccf9ce6,1156,HOL Guard,hol-guard-5ccf9ce6,https://harpd.com/rank/hol-guard-5ccf9ce6/,security,Security,0,true,2026-10-16T13:23:18.213Z
+curlshot-e7ff56eb,1157,CurlShot,curlshot-e7ff56eb,https://harpd.com/rank/curlshot-e7ff56eb/,developer,Developer,0,true,2026-10-16T16:06:39.331Z
+project-moon-life-148740a1,1158,Project Moon Life,project-moon-life-148740a1,https://harpd.com/rank/project-moon-life-148740a1/,games,Games,0,false,2026-10-16T17:19:32.001Z
+codetrendy-a79d34cb,1159,CodeTrendy,codetrendy-a79d34cb,https://harpd.com/rank/codetrendy-a79d34cb/,directories,Directories,0,true,2026-10-16T20:23:49.208Z
+mediapronet-5a01adc0,1160,MEDIAPRONET,mediapronet-5a01adc0,https://harpd.com/rank/mediapronet-5a01adc0/,directories,Directories,0,true,2026-10-16T21:19:54.276Z
+sitepatent-5e1b11e1,1161,SitePatent,sitepatent-5e1b11e1,https://harpd.com/rank/sitepatent-5e1b11e1/,directories,Directories,0,true,2026-10-16T21:32:18.097Z
+yttext-68091806,1162,YTText,yttext-68091806,https://harpd.com/rank/yttext-68091806/,productivity,Productivity,0,false,2026-10-18T01:52:49.116Z
+popnow-58346fe1,1163,PopNow,popnow-58346fe1,https://harpd.com/rank/popnow-58346fe1/,ai-media,AI Media,0,false,2026-10-18T14:20:38.192Z
+geardex-c992b7b7,1164,GearDex,geardex-c992b7b7,https://harpd.com/rank/geardex-c992b7b7/,productivity,Productivity,0,false,2026-10-19T06:03:14.794Z

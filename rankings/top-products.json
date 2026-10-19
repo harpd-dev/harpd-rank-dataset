@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-12T10:51:01.216Z",
+  "generatedAt": "2026-10-19T08:53:55.208Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -9,10 +9,10 @@
   "periods": {
     "monthStart": "2026-10-01T00:00:00.000Z",
     "monthEnd": "2026-11-01T00:00:00.000Z",
-    "weekStart": "2026-10-12T00:00:00.000Z",
-    "weekEnd": "2026-10-19T00:00:00.000Z",
+    "weekStart": "2026-10-19T00:00:00.000Z",
+    "weekEnd": "2026-10-26T00:00:00.000Z",
     "monthKey": "2026-10",
-    "weekKey": "2026-W42"
+    "weekKey": "2026-W43"
   },
   "lastUpdated": "2026-09-09T07:06:40.831Z",
   "disclosure": "Rank Points are promotional placement earned with optional Credits, not an editorial quality score.",
@@ -25,7 +25,7 @@
       "category": "ai-media",
       "categoryName": "AI Media",
       "rank": 1,
-      "rankPoints": 238,
+      "rankPoints": 258,
       "verified": true,
       "updatedAt": "2026-08-28T05:03:03.444Z",
       "website": "https://imgkitapp.com/",
