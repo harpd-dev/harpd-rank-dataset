@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-26T08:56:27.538Z",
+  "generatedAt": "2026-11-02T11:08:47.893Z",
   "origin": "https://harpd.com",
-  "period": "2026-08",
-  "products": 1194,
+  "period": "2026-09",
+  "products": 1236,
   "categories": 28,
   "files": [
     {
       "path": "rankings/rank.json",
-      "bytes": 400665,
-      "sha256": "a928219e9bce8c12429962acddb7ef46779282943dc702c91161d977a8befe36"
+      "bytes": 415716,
+      "sha256": "d7e86bab1ffa8d854538822c076c53d8af19f9fb8fa329411d9af1069a6cf0fa"
     },
     {
       "path": "rankings/rank.csv",
-      "bytes": 161249,
-      "sha256": "63feeadf17c0a53cbc4c2b05f84d5aba10c161b2e30660c49d531f33c9603e0a"
+      "bytes": 167900,
+      "sha256": "215398de0ef0ef2f57e1f72f44a75a6db66fa2a16be6813ef4b57c288c17e9e6"
     },
     {
       "path": "rankings/categories.json",
-      "bytes": 13294,
-      "sha256": "edfe717fd4c8ff155b88132cd371a28bbe532dc57e21bffbc1213a24225509f0"
+      "bytes": 13346,
+      "sha256": "9e33450e76c6a2c690e1fc426a435dd4287c44edd73bd782df512cab2c49349f"
     },
     {
       "path": "rankings/top-products.json",
       "bytes": 67014,
-      "sha256": "877f22f1c45254f597895111ab27401aee524b6a3d97d05bd79da067e821ee8f"
+      "sha256": "eea72d42d027438d58058f1d14804d0fb9b0ac526e9f4c9c4a620e6e0eff6098"
     },
     {
       "path": "rankings/products.json",
-      "bytes": 690566,
-      "sha256": "9f403aeae6b6508051a079d0ba959c21242f3192ca5060086b38a761660a0cca"
+      "bytes": 717254,
+      "sha256": "60f0c55cf1938d292ef1118eabe94947ba95b7afa37c7a86db97f37f1efd5768"
     },
     {
       "path": "rankings/market-index.json",
-      "bytes": 11436,
-      "sha256": "eabd9a3e438f189779a28eccb57737b9b819379de3b4716621c72eff42f5c6b7"
+      "bytes": 11854,
+      "sha256": "1ccaa4d60f51ebfede377609dfaa08283b62bf3ee595939259f7eccc882b9b4e"
     },
     {
       "path": "rankings/rank-open-data.json",
@@ -42,38 +42,38 @@
     },
     {
       "path": "rankings/rank-history.json",
-      "bytes": 502,
-      "sha256": "381c2e1e8ccdcabaf1133ad01cffe2e87e6fe867caf6b5940661356b13fe0f0e"
+      "bytes": 757,
+      "sha256": "c09258743820a568f008f5362a56528183c8cc8735dc2b8a8b62279b08350b7e"
     },
     {
       "path": "methodology/methodology.json",
       "bytes": 1546,
-      "sha256": "3d2c25b5307d89b94f93058645aa67d234dce39f0708dec2b019f65053e564ec"
+      "sha256": "5ed3380dcf7ba791a521b28674d3d9f17952498465f1420d1a57942e1dcfa157"
     },
     {
       "path": "methodology/schema.json",
       "bytes": 7519,
-      "sha256": "3e1935cb96dd4eb8d0120046446126b161fbd92028c1bf98af2f5cbdbb434540"
+      "sha256": "dc0156174266e0e8e21d11c3a0360646f53963ca8bc2f47005c39fd6b1df97fb"
     },
     {
       "path": "research/research.json",
-      "bytes": 1522,
-      "sha256": "c8e12accc8703d55d6d25506142fc0ad8723cc5822ca82c617d0581e312fe539"
+      "bytes": 2585,
+      "sha256": "837e30e11cdfc0065bebe814f49ad4b23a683e9315bb1e66427432fcb576f497"
     },
     {
-      "path": "snapshots/2026-08/rank.json",
+      "path": "snapshots/2026-09/rank.json",
       "snapshot": true
     },
     {
-      "path": "snapshots/2026-08/rank.csv",
+      "path": "snapshots/2026-09/rank.csv",
       "snapshot": true
     },
     {
-      "path": "snapshots/2026-08/categories.json",
+      "path": "snapshots/2026-09/categories.json",
       "snapshot": true
     },
     {
-      "path": "snapshots/2026-08/market-index.json",
+      "path": "snapshots/2026-09/market-index.json",
       "snapshot": true
     }
   ],

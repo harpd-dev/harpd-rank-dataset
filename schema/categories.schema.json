@@ -38,6 +38,7 @@
     }
   },
   "required": [
+    "createdAt",
     "description",
     "name",
     "productCount",
@@ -46,6 +47,7 @@
     "state",
     "topRankOpen",
     "totalRankPoints",
+    "updatedAt",
     "url"
   ],
   "additionalProperties": true
