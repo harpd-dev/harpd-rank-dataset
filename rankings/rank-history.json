@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-02T11:08:46.867Z",
+  "generatedAt": "2026-11-09T11:33:21.653Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
@@ -11,7 +11,7 @@
       "periodKey": "2026-09",
       "startsAt": "2026-09-01T00:00:00.000Z",
       "endsAt": "2026-10-01T00:00:00.000Z",
-      "productCount": 1039,
+      "productCount": 773,
       "url": "https://harpd.com/rank/history/monthly/2026-09/"
     },
     {
@@ -19,7 +19,7 @@
       "periodKey": "2026-08",
       "startsAt": "2026-08-01T00:00:00.000Z",
       "endsAt": "2026-09-01T00:00:00.000Z",
-      "productCount": 89,
+      "productCount": 55,
       "url": "https://harpd.com/rank/history/monthly/2026-08/"
     }
   ]
