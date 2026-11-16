@@ -1,15 +1,15 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-09T11:33:21.337Z",
+  "generatedAt": "2026-11-16T11:19:44.222Z",
   "source": "Harpd Rank",
   "methodology": "https://harpd.com/rank/methodology/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "count": 28,
   "scope": "market-index",
-  "totalProducts": 964,
-  "totalRankPoints": 268,
+  "totalProducts": 995,
+  "totalRankPoints": 368,
   "categoryCount": 28,
-  "lastUpdated": "2026-11-09T04:39:57.494Z",
+  "lastUpdated": "2026-11-16T11:18:43.562Z",
   "disclosure": "Market share here means share of Harpd Rank participation, not share of the global software market.",
   "categories": [
     {
@@ -17,7 +17,7 @@
       "categoryName": "Other",
       "productCount": 246,
       "totalRankPoints": 0,
-      "productShare": 25.5,
+      "productShare": 24.7,
       "pointsShare": 0,
       "topProduct": {
         "name": "BuildAI.Space",
@@ -28,11 +28,26 @@
       "boardUrl": "https://harpd.com/rank/category/other/"
     },
     {
+      "category": "ai-media",
+      "categoryName": "AI Media",
+      "productCount": 114,
+      "totalRankPoints": 368,
+      "productShare": 11.5,
+      "pointsShare": 100,
+      "topProduct": {
+        "name": "imgkit",
+        "slug": "imgkit-86d32f3e",
+        "url": "https://harpd.com/rank/imgkit-86d32f3e/",
+        "rankPoints": 368
+      },
+      "boardUrl": "https://harpd.com/rank/category/ai-media/"
+    },
+    {
       "category": "developer",
       "categoryName": "Developer",
-      "productCount": 111,
+      "productCount": 113,
       "totalRankPoints": 0,
-      "productShare": 11.5,
+      "productShare": 11.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Cursor",
@@ -43,26 +58,11 @@
       "boardUrl": "https://harpd.com/rank/category/developer/"
     },
     {
-      "category": "ai-media",
-      "categoryName": "AI Media",
-      "productCount": 108,
-      "totalRankPoints": 268,
-      "productShare": 11.2,
-      "pointsShare": 100,
-      "topProduct": {
-        "name": "imgkit",
-        "slug": "imgkit-86d32f3e",
-        "url": "https://harpd.com/rank/imgkit-86d32f3e/",
-        "rankPoints": 268
-      },
-      "boardUrl": "https://harpd.com/rank/category/ai-media/"
-    },
-    {
       "category": "agents",
       "categoryName": "Agents",
       "productCount": 66,
       "totalRankPoints": 0,
-      "productShare": 6.8,
+      "productShare": 6.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Claude",
@@ -75,9 +75,9 @@
     {
       "category": "marketing",
       "categoryName": "Marketing",
-      "productCount": 47,
+      "productCount": 50,
       "totalRankPoints": 0,
-      "productShare": 4.9,
+      "productShare": 5,
       "pointsShare": 0,
       "topProduct": {
         "name": "EVO Marketing",
@@ -92,7 +92,7 @@
       "categoryName": "SEO",
       "productCount": 45,
       "totalRankPoints": 0,
-      "productShare": 4.7,
+      "productShare": 4.5,
       "pointsShare": 0,
       "topProduct": {
         "name": "Semrush",
@@ -107,7 +107,7 @@
       "categoryName": "Productivity",
       "productCount": 44,
       "totalRankPoints": 0,
-      "productShare": 4.6,
+      "productShare": 4.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "Notion",
@@ -120,9 +120,9 @@
     {
       "category": "audio",
       "categoryName": "Audio",
-      "productCount": 40,
+      "productCount": 42,
       "totalRankPoints": 0,
-      "productShare": 4.1,
+      "productShare": 4.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "15Minutes",
@@ -135,9 +135,9 @@
     {
       "category": "business",
       "categoryName": "Business",
-      "productCount": 31,
+      "productCount": 33,
       "totalRankPoints": 0,
-      "productShare": 3.2,
+      "productShare": 3.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "Klover",
@@ -150,9 +150,9 @@
     {
       "category": "design",
       "categoryName": "Design",
-      "productCount": 27,
+      "productCount": 29,
       "totalRankPoints": 0,
-      "productShare": 2.8,
+      "productShare": 2.9,
       "pointsShare": 0,
       "topProduct": {
         "name": "NeoCam",
@@ -167,7 +167,7 @@
       "categoryName": "Hiring",
       "productCount": 23,
       "totalRankPoints": 0,
-      "productShare": 2.4,
+      "productShare": 2.3,
       "pointsShare": 0,
       "topProduct": {
         "name": "LATAMHire",
@@ -178,24 +178,9 @@
       "boardUrl": "https://harpd.com/rank/category/hiring/"
     },
     {
-      "category": "education",
-      "categoryName": "Education",
-      "productCount": 22,
-      "totalRankPoints": 0,
-      "productShare": 2.3,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "1001 Record",
-        "slug": "1001-record",
-        "url": "https://harpd.com/rank/1001-record/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/education/"
-    },
-    {
       "category": "health",
       "categoryName": "Health",
-      "productCount": 21,
+      "productCount": 22,
       "totalRankPoints": 0,
       "productShare": 2.2,
       "pointsShare": 0,
@@ -208,11 +193,26 @@
       "boardUrl": "https://harpd.com/rank/category/health/"
     },
     {
+      "category": "education",
+      "categoryName": "Education",
+      "productCount": 22,
+      "totalRankPoints": 0,
+      "productShare": 2.2,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "1001 Record",
+        "slug": "1001-record",
+        "url": "https://harpd.com/rank/1001-record/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/education/"
+    },
+    {
       "category": "writing",
       "categoryName": "Writing",
-      "productCount": 18,
+      "productCount": 20,
       "totalRankPoints": 0,
-      "productShare": 1.9,
+      "productShare": 2,
       "pointsShare": 0,
       "topProduct": {
         "name": "1Transcribe",
@@ -223,9 +223,24 @@
       "boardUrl": "https://harpd.com/rank/category/writing/"
     },
     {
+      "category": "games",
+      "categoryName": "Games",
+      "productCount": 18,
+      "totalRankPoints": 0,
+      "productShare": 1.8,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "Degen Idle",
+        "slug": "degen-idle",
+        "url": "https://harpd.com/rank/degen-idle/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/games/"
+    },
+    {
       "category": "directories",
       "categoryName": "Directories",
-      "productCount": 17,
+      "productCount": 18,
       "totalRankPoints": 0,
       "productShare": 1.8,
       "pointsShare": 0,
@@ -242,7 +257,7 @@
       "categoryName": "Sales",
       "productCount": 14,
       "totalRankPoints": 0,
-      "productShare": 1.5,
+      "productShare": 1.4,
       "pointsShare": 0,
       "topProduct": {
         "name": "AC0.AI",
@@ -253,26 +268,11 @@
       "boardUrl": "https://harpd.com/rank/category/sales/"
     },
     {
-      "category": "games",
-      "categoryName": "Games",
-      "productCount": 13,
-      "totalRankPoints": 0,
-      "productShare": 1.3,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "Degen Idle",
-        "slug": "degen-idle",
-        "url": "https://harpd.com/rank/degen-idle/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/games/"
-    },
-    {
       "category": "travel",
       "categoryName": "Travel",
-      "productCount": 11,
+      "productCount": 12,
       "totalRankPoints": 0,
-      "productShare": 1.1,
+      "productShare": 1.2,
       "pointsShare": 0,
       "topProduct": {
         "name": "Wento",
@@ -285,9 +285,9 @@
     {
       "category": "social",
       "categoryName": "Social",
-      "productCount": 10,
+      "productCount": 11,
       "totalRankPoints": 0,
-      "productShare": 1,
+      "productShare": 1.1,
       "pointsShare": 0,
       "topProduct": {
         "name": "AdaptlyPost",
@@ -300,9 +300,9 @@
     {
       "category": "ecommerce",
       "categoryName": "Ecommerce",
-      "productCount": 9,
+      "productCount": 10,
       "totalRankPoints": 0,
-      "productShare": 0.9,
+      "productShare": 1,
       "pointsShare": 0,
       "topProduct": {
         "name": "Four",
@@ -311,6 +311,21 @@
         "rankPoints": 0
       },
       "boardUrl": "https://harpd.com/rank/category/ecommerce/"
+    },
+    {
+      "category": "security",
+      "categoryName": "Security",
+      "productCount": 8,
+      "totalRankPoints": 0,
+      "productShare": 0.8,
+      "pointsShare": 0,
+      "topProduct": {
+        "name": "Comp AI",
+        "slug": "comp-ai",
+        "url": "https://harpd.com/rank/comp-ai/",
+        "rankPoints": 0
+      },
+      "boardUrl": "https://harpd.com/rank/category/security/"
     },
     {
       "category": "leaderboards",
@@ -328,26 +343,11 @@
       "boardUrl": "https://harpd.com/rank/category/leaderboards/"
     },
     {
-      "category": "security",
-      "categoryName": "Security",
+      "category": "crypto",
+      "categoryName": "Crypto",
       "productCount": 7,
       "totalRankPoints": 0,
       "productShare": 0.7,
-      "pointsShare": 0,
-      "topProduct": {
-        "name": "Comp AI",
-        "slug": "comp-ai",
-        "url": "https://harpd.com/rank/comp-ai/",
-        "rankPoints": 0
-      },
-      "boardUrl": "https://harpd.com/rank/category/security/"
-    },
-    {
-      "category": "crypto",
-      "categoryName": "Crypto",
-      "productCount": 6,
-      "totalRankPoints": 0,
-      "productShare": 0.6,
       "pointsShare": 0,
       "topProduct": {
         "name": "Orynth",

@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-11-09T11:33:22.338Z",
+  "generatedAt": "2026-11-16T11:19:45.685Z",
   "origin": "https://harpd.com",
   "period": "2026-09",
-  "products": 964,
+  "products": 995,
   "categories": 28,
   "files": [
     {
       "path": "rankings/rank.json",
-      "bytes": 327187,
-      "sha256": "518a47a389ddec3c56572aeb3b29ff788e089c773dfc2fdd610bf6a293b2c3ec"
+      "bytes": 338622,
+      "sha256": "f036c00fe59dff97b340e0f31aa0f4cddbf56ed88e83f3cadf9b2ce6f5e8f972"
     },
     {
       "path": "rankings/rank.csv",
-      "bytes": 133770,
-      "sha256": "827862385f4d77d44c1851a1db54cabc3c6d0a6c09b135278214103f7d8b62d9"
+      "bytes": 139005,
+      "sha256": "a9d89c5edd41da28190ad456d0c978d5dc994e11b144fa95eb91763ed341aaae"
     },
     {
       "path": "rankings/categories.json",
-      "bytes": 13343,
-      "sha256": "b46441f06545aebddfc44dfcd3873fb6bde3e962aa8e2b2d09f733312a95c181"
+      "bytes": 13344,
+      "sha256": "7997883e13bbd2c9965ca91a259f96185bb27ba7e992103a7b9cef7edf5e3f7a"
     },
     {
       "path": "rankings/top-products.json",
       "bytes": 67440,
-      "sha256": "ac16692d692690fca815c132922e22063361ced43866149c6908f4fee59e8841"
+      "sha256": "1d44fd0b401094626441d2c9c9f71d9cf1c1ed924b773394b73fe157f9e4f186"
     },
     {
       "path": "rankings/products.json",
-      "bytes": 565250,
-      "sha256": "044c0b8a57f413579255a92c1314c4b5e4b13f2caab04a928b410437f0dbd8fc"
+      "bytes": 586089,
+      "sha256": "61e11648b989c35cd38359ce58ec1b8355bd3e56362e32593be9dd4b2a78100e"
     },
     {
       "path": "rankings/market-index.json",
-      "bytes": 11877,
-      "sha256": "61b0ace055804b1f332d33ea22dca8f3d84dce85df39ed9eb77c7eea81260708"
+      "bytes": 11874,
+      "sha256": "2041fbc95416aa4a7dc8d733f57a74d9cea2cb60eaf18476d2db73fdc5f0aee5"
     },
     {
       "path": "rankings/rank-open-data.json",
@@ -43,22 +43,22 @@
     {
       "path": "rankings/rank-history.json",
       "bytes": 756,
-      "sha256": "e55234a72f69050a47c2c6549f9183f84d3669bac8eefd300691da63f296ce0e"
+      "sha256": "a919295fb6554986500b1ab7cd895886b313cd06be83c4091c74eaf1db568f0d"
     },
     {
       "path": "methodology/methodology.json",
       "bytes": 1546,
-      "sha256": "51fe3f4223785f5d54cf5d7af44df7ab678b88ed43029e0fba40839300971373"
+      "sha256": "af85cc408b0f98778ef275be67b3104941aa759c1db685528b9164d3ea4f3ed4"
     },
     {
       "path": "methodology/schema.json",
       "bytes": 7519,
-      "sha256": "aa47decc492ab7804b9def3a6f4880b23fecf17f6b2871af930842a0d278f7c3"
+      "sha256": "b12ea567abac658e455b0833113d9043b40fd626251071bda34d9b61e2a72ee1"
     },
     {
       "path": "research/research.json",
       "bytes": 2584,
-      "sha256": "09c71446b4e73a38fa0cb72d48d7808f37003c0e8367a2e5c1c55dadac16d18a"
+      "sha256": "e1db6507434d44fe2698b9ee5927cdbe84718afe5f0d89e9fe41d0ad82e85df1"
     },
     {
       "path": "snapshots/2026-09/rank.json",
